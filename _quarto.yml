@@ -13,7 +13,7 @@ website:
       - href: cv/dcr_cv.pdf
         text: CV
       - blog/index.qmd
-      - sidebar: teaching
+      - sidebar:teaching
 
   sidebar:
     - id: teaching
