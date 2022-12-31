@@ -1,6 +1,5 @@
 project:
   type: book
-  output-dir: (root)
 
 book:
   title: "PSCI 2075 Recitation Handout"
@@ -24,7 +23,5 @@ format:
     theme:
       - journal
       - ../assets/custom.scss
-  pdf:
-    documentclass: scrreprt
 execute:
   freeze: auto
