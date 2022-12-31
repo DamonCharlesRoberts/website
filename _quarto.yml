@@ -13,6 +13,7 @@ website:
       - href: cv/dcr_cv.pdf
         text: CV
       - blog/index.qmd
+      - teaching/index.qmd
 
 format:
   html:
