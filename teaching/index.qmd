@@ -16,5 +16,5 @@ title: Teaching
 [Fall, 2022: PSCI 3075 - Applied Research Methods (UG)](https://www.dropbox.com/s/d9b3t7a5gd7xng2/dcr_psci_3075_fall_2022_syllabus.pdf?dl=0)
 - Instructor of Record
 
-[Spring, 2023: PSCI 2075 - Quantitative Research Methods (UG)](psci_2075/sp23/index.qmd)
+[Spring, 2023: PSCI 2075 - Quantitative Research Methods (UG)](psci_2075/sp23/index.html)
 - TA
