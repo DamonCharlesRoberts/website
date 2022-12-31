@@ -1,0 +1,35 @@
+%%%
+%%% CV Template
+%%% Notes
+%%%     - Description: Quarto template for CV
+%%%     - Updated: 2022-12-30
+%%%         - by: dcr
+
+% Document class
+\documentclass[margin, 11pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+
+% Preemble
+\usepackage{libertinus} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+
+\usepackage[colorlinks=true, linkcolor=black,anchorcolor=black,citecolor=black,filecolor=black,menucolor=black,runcolor=black,urlcolor=black]{hyperref}
+\setlength{\textwidth}{5.1in} % Text width of the document
+
+\def\tightlist{}
+% Begin document
+\begin{document}
+\moveleft.5\hoffset\centerline{\large\bf $name$} % Your name at the top
+ 
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+ 
+\moveleft.5\hoffset\centerline{$address.address$} % Your address
+\moveleft.5\hoffset\centerline{$address.city$, $address.state$ $address.postal$}
+\moveleft.5\hoffset\centerline{\href{mailto:$email$}{$email$}}
+\moveleft.5\hoffset\centerline{\href{$website$}{$website$}}
+\moveleft.5\hoffset\centerline{Updated: \today}
+
+\begin{resume}
+    $body$
+\end{resume}
+\end{document}
