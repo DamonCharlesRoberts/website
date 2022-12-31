@@ -9,7 +9,7 @@ email: "damon.charles.roberts@gmail.com"
 website: "https://www.damoncroberts.com"
 format:
     pdf:
-        template: ../../assets/cv/cv_template.tex
+        template: ../assets/cv/cv_template.tex
 ---
 
 # Appointments
