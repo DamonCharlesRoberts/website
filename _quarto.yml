@@ -18,7 +18,6 @@ website:
   sidebar:
     - id: teaching
       title: "Teaching"
-      style: "docked"
       contents:
         - href: teaching/psci-2075/sp23/index.qmd
           text: PSCI 2075--Quantitative Research Methods (TA), Spring 2023
