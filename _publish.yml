@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "1554d348-67c7-4d71-9931-c10b5fc0eada"
+      url: "fancy-swan-10271f"
