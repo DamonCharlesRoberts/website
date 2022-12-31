@@ -1,7 +1,26 @@
 ---
-title: "Welcome!"
+title: "Welcome"
+bibliography: "assets/publications.bib"
+nocite: |
+    @roberts_utych_2020_prq, @roberts_utych_2021_ssq, @roberts_utych_2021_apr, @fahey_et-al_2022_apr, @roberts_wolak_2022_pb
 ---
 
-This is a Quarto website.
+# About {#about}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in the Department of Political Science at the University of Colorado Boulder. My research focuses on political psychology, political communication, race and gender, and the use of applied machine learning to aid with causal inference. My current projects examines the way that individuals process various types of politically-relevant information and how that shapes their emotions, attitudes, and behaviors about politics. My academic work is featured in *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing scholarship is featured in *The Washington Post*'s Monkey Cage Blog.
+
+# Recent publications
+:::{#refs}
+:::
+
+# Contact
+
+{{< fa envelope title="Email" >}} [damon[dot]roberts-1[at]colorado.edu](mailto:damon.roberts-1@colorado.edu)
+
+{{< fa brands twitter title="Twitter" >}} [damoncroberts](https://twitter.com/damoncroberts)
+
+{{< fa brands github title="Github" >}} [DamonCharlesRoberts](https://github.com/damoncharlesroberts)
+
+{{< fa clock title="Office Hours" >}} Wednesdays from 12:15 - 2:15 pm Mountain
+
+{{< fa building-columns title="Office" >}} Ketchum Arts & Sciences, Office 382, Boulder, CO 80309
