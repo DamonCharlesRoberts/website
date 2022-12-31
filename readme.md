@@ -1,13 +1,13 @@
 <h4 align="center">Website</h4>
 <p align="center">
-    <a href="https://github.com/DamonCharlesRoberts/dcr-website/commits/main">
-    <img src="https://img.shields.io/github/last-commit/DamonCharlesRoberts/dcr-website.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/DamonCharlesRoberts/website/commits/main">
+    <img src="https://img.shields.io/github/last-commit/DamonCharlesRoberts/website.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit"></a>
-    <a href="https://github.com/DamonCharlesRoberts/dcr-website/issues">
-    <img src="https://img.shields.io/github/issues-raw/DamonCharlesRoberts/dcr-website.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/DamonCharlesRoberts/website/issues">
+    <img src="https://img.shields.io/github/issues-raw/DamonCharlesRoberts/website.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues"></a>
-    <a href="https://github.com/DamonCharlesRoberts/dcr-website/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/DamonCharlesRoberts/dcr-website.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/DamonCharlesRoberts/website/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/DamonCharlesRoberts/website.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests"></a>
 </p>
 
