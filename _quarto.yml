@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - cv/dcr_cv.qmd
       - blog/index.qmd
 
 format:
