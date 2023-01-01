@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme: 
-      - journal
+      - slate
       - assets/custom.scss
     code-copy: true
     css: styles.css
