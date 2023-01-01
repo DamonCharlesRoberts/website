@@ -28,7 +28,7 @@ website:
 
 format:
   html:
-    theme: 
+    theme:
       - flatly
       - assets/custom.scss
     code-copy: true
