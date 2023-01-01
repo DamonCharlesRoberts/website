@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme: 
-      - slate
+      - flatly
       - assets/custom.scss
     code-copy: true
     css: styles.css
