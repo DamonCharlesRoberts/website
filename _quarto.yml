@@ -25,12 +25,12 @@ website:
             text: PSCI 1101--Introduction to American Politics (TA), Spring 2020
           - href: https://www.dropbox.com/s/hb4zih5ziza51jf/Fall%2C%202019%20PSCI%201101-%20Reciation%20Syllabus%20111.pdf?dl=0
             text: PSCI 1101--Introduction to American Politics (TA), Fall 2019
-      - text: "Software"
-        menu:
-          - href: https://gencounter.app.damoncroberts.com
-            text: genCounter--Webapp
-          - href: https://github.com/DamonCharlesRoberts/ScrapeCongress
-            text: ScrapeCongress--R Package
+      #- text: "Software"
+      #  menu:
+      #    - href: https://gencounter.app.damoncroberts.com
+      #      text: genCounter--Webapp
+      #    - href: https://github.com/DamonCharlesRoberts/ScrapeCongress
+      #      text: ScrapeCongress--R Package
 
 format:
   html:
