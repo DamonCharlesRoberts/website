@@ -30,5 +30,7 @@ I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in t
 :::
 
 # Contact
-::: a
-:::
+
+<button onclick="location.href='mailto:damon.charles.roberts@gmail.com'" type="button">
+    <i class="fas fa-envelope"></i> Email
+</button>
