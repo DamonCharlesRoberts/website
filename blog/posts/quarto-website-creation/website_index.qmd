@@ -11,6 +11,7 @@ engine: markdown
 ---
 
 *You can find all of the source code for this site on my [Github](https://github.com/damoncharlesroberts/dcr-website)*
+*Please note the file structure of this current site has changed*
 
 # Why have a website?
 
