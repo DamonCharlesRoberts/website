@@ -15,6 +15,6 @@ I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in t
 
 # Contact
 
-<button class="button1" onclick="location.href='mailto:damon.charles.roberts@gmail.com'" type="button">
+<button class="button1" onclick="location.href='mailto:damon.charles.roberts@gmail.com'">
     <i class="fas fa-envelope"></i> Email
 </button>
