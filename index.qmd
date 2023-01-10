@@ -22,10 +22,13 @@ about:
           text: Mastodon
 ---
 
-::: a
+# About {#sec-about}
 I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in the Department of Political Science at the University of Colorado Boulder. My research focuses on political psychology, political communication, race and gender, and the use of applied machine learning to aid with causal inference. My current projects examines the way that individuals process various types of politically-relevant information and how that shapes their emotions, attitudes, and behaviors about politics. My academic work is featured in *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing scholarship is featured in *The Washington Post*'s Monkey Cage Blog.
-:::
 
 # Recent publications
 :::{#refs}
+:::
+
+# Contact
+::: a
 :::
