@@ -37,6 +37,10 @@ website:
         href: mailto:damon.charles.roberts@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/damon-roberts-00a08a197
+  page-footer:
+    center: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2021-2023 Damon Charles Roberts</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span> 
 
 format:
   html:
@@ -50,8 +54,3 @@ format:
 
 execute:
   freeze: auto
-
-page-footer:
-    center: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2021-2023 Damon Charles Roberts</span>
-      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span> 
