@@ -1,5 +1,5 @@
 /* css styles */
-a.button {
+a.button1 {
     display:inline-block;
     padding:0.35em 1.2em;
     border: 0.1em solid #737373;
@@ -12,7 +12,7 @@ a.button {
     transition: all 0.2s;
 }
 
-a.button:hover {
+a.button1:hover {
     color: #ffffff;
     background-color: #550000;
 }

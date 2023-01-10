@@ -9,6 +9,8 @@
     <a href="https://github.com/DamonCharlesRoberts/website/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/DamonCharlesRoberts/website.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests"></a>
+   <a href = "https://github.com/DamonCharlesRoberts/website/actions/workflows/publish.yml">
+   <img src="https://github.com/DamonCharlesRoberts/website/actions/workflows/publish.yml/badge.svg" alt="Quarto Publish"></a>
 </p>
 
 ---
