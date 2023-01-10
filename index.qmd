@@ -3,23 +3,7 @@ title: "Welcome"
 bibliography: "assets/publications.bib"
 nocite: |
     @roberts_utych_2020_prq, @roberts_utych_2021_ssq, @roberts_utych_2021_apr, @fahey_et-al_2022_apr, @roberts_wolak_2022_pb
-about:
-    links:
-        - icon: envelope
-          href: mailto:damon.charles.roberts@gmail.com
-          text: Email
-        - icon: clock
-          href: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzRlMG1yZnJtNWhkdjFiam1lOHVuMGgyYTNfMjAyMzAxMTlUMTkwMDAwWiBjX2NjMTYwNWZiMjc0YTU1NjM2YTNiYzY4N2Q2M2ZhMjQ0NzhiZGQwZGZhMGFkMjM1MDFmNjkyM2IxZDQxZDc0MGZAZw&tmsrc=c_cc1605fb274a55636a3bc687d63fa24478bdd0dfa0ad23501f6923b1d41d740f%40group.calendar.google.com&scp=ALL
-          text: Office Hours
-        - icon: github
-          href: https://github.com/damoncharlesroberts
-          text: Github
-        - icon: linkedin
-          href: https://www.linkedin.com/in/damon-roberts-00a08a197
-          text: LinkedIn
-        - icon: mastodon
-          href: https://mastodon.social/@damoncroberts
-          text: Mastodon
+
 ---
 
 # About {#sec-about}
