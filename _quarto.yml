@@ -13,6 +13,8 @@ website:
       - href: cv/dcr_cv.pdf
         text: CV
       - blog/index.qmd
+      - href: research/index.qmd
+        text: Research
       - text: "Teaching"
         menu:
           - href: https://sp23.psci2075.classes.damoncroberts.com/
@@ -33,10 +35,6 @@ website:
             text: ScrapeCongress--R Package
       - icon: github
         href: https://github.com/damoncharlesroberts
-      - icon: envelope
-        href: mailto:damon.charles.roberts@gmail.com
-      - icon: linkedin
-        href: https://www.linkedin.com/in/damon-roberts-00a08a197
   page-footer:
     center: |
       <span class="faux-block">{{< fa brands creative-commons >}} 2021-2023 Damon Charles Roberts</span>

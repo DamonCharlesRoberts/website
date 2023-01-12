@@ -1,0 +1,67 @@
+---
+title: "Research"
+nocite: |
+    @roberts_utych_2020_prq, @roberts_utych_2021_ssq, @roberts_utych_2021_apr, @fahey_et-al_2022_apr, @roberts_wolak_2022_pb
+---
+
+## Published
+<p>
+    Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" <i>Political Behavior</i>. DOI: <a href="https://doi.org/10.1007/s11109-022-09802-5">10.1007/s11109-022-09802-5</a>.
+    <br>
+     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://link.springer.com/article/10.1007/s11109-022-09802-5)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-022-09802-5/MediaObjects/11109_2022_9802_MOESM1_ESM.docx)</i>
+</p>
+
+<p>
+    Fahey, James J. and Damon C. Roberts and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X22108760">10.1177/1532673X22108760</a>.
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X221087601)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1532673X221087601/suppl_file/sj-pdf-1-apr-10.1177_1532673X221087601.pdf)
+</p>
+
+<p> 
+    Roberts, Damon C. and Stephen M. Utych. 2022. "A Delicate Hand, or Two Fisted Aggression? How Gendered Language Influences Candidate Perceptions." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X211064884">10.1177/1532673X211064884</a>.
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X211064884)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://doi.org/10.1177/1532673X211064884)</i>
+</p>
+
+<p>
+    Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized social distancing: Residents of Republican‐majority counties spend more time away from home during the COVID‐19 crisis." <i>Social Science Quarterly</i>. DOI: <a href="https://doi.org/10.1111/ssqu.13101">10.1111/ssqu.13101</a>.
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i>
+</p>
+
+<p>
+    Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." <i>Political Research Quarterly</i>. DOI: <a href="https://doi.org/10.1177/106591291987488">10.1177/106591291987488</a>
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/epub/10.1177/1065912919874883)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix.7z)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix_-_Word_Rating_File.xlsx)</i>
+</p>
+
+
+## Select Working Papers^[See CV for full list]
+
+<p>
+    Roberts, Damon C. 2022. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i>
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/drafts/fa_2022/dcr_white_identity_relative_deprivation_fa_2022.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i>
+</p>
+
+<p>
+    Roberts, Damon C. 2022. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i>
+    <br>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}]()</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/imputation-with-random-forests)</i>
+</p>
+
+## Public Scholarship
+
+### Articles
+
+<p>
+    Roberts, Damon C. and Jennifer Wolak. 2022. "Will Biden's age keep him from being re-elected?" <i>Washington Post</i>.
+    <br>
+    <i style="padding-left: 1em">[{{< fa newspaper size= 2x title="Code" >}}](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/)</i>
+</p>
+
+### Interviews
+
+<p>
+    <i>Colorado Public Radio</i>. On: The effects of candidate age on electability. August 31, 2022.
+</p>
