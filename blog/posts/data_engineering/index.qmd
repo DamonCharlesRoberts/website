@@ -1,0 +1,90 @@
+---
+title: "Why should academics care about data engineering principles?"
+author: "Damon C. Roberts"
+date: 1/19/2023
+categories:
+    - technical
+    - open science
+    - data engineering
+draft: false
+engine: rmarkdown
+execute:
+    message: false
+    warning: false
+    echo: false
+---
+<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/132889348@N07/20607150556">Binary code</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/132889348@N07">Christiaan Colen</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p> 
+
+# What is data engineering?
+
+Data engineering, broadly speaking, refers to the process by which one extracts (collects) data, transforms (cleans) it, and loads (accesses) it.
+
+Outside of Academia, there is quite high demand for those who are familiar with best practices to safely store data in a reproducible way. As the collection of data is booming and demands for employees with capabilities to analyze data, so too are the demands to ensure that an organization's data are protected and are reliably and easily accessible. 
+
+Though quantitative researchers in Academia are constantly collecting and analyzing data, many are quite unfamiliar with the concepts and tools central to data engineering. These very tools and principles that increase the safety for our subjects (particularly if we study human subjects and need to protect their identities), increase the accessibility of our data for ourselves and with others, along with decreasing barriers to reproducibility. Though graduate students get extensive training and warnings about the dangers of mishandling data, rarely does a discussion of data engineering accompany them.
+
+Of course academics do not have to know everything. There are many distractions in academia today and with the rising number of tools for research, competition for jobs, and demands on our time, we need to take stock of what matters to us and to invest our time to learn tools accordingly. Ensuring that our data is accessible, reproducible, and avoid the potential for easy mistakes through automation should be one such desire among a quantitative researcher.
+
+Data engineering is its entire field, after all. Academics should not feel pressure to learn fancy tools like Apache and PySpark (though it'd be good if we moved in that direction; but that is for a different time). However, academic researchers should familiarize themselves with principles that encourage more careful thinking about their data management processes and to try to implement tools that are designed for such processes.
+
+# What are some common principles?
+
+One of the more accessible concepts in data engineering is referred to as ETL. This refers to the Extract-Transform-Load pipeline. This ETL pipeline refers to the task that we as academics are quite familiar with (in our own way). Extraction refers to the process of collecting raw data. Transform refers to transforming our raw data (what is referred to as a data lake) into something usable that we might use for analysis later and store it in a data warehouse. Once we have transformed our data into something useable, we (and others) should be able to Load the data for analysis.
+
+Outside of academia, data engineers are tasked with the responsibility to create, develop, and maintain this process so that an organization's analysts might access these data quickly without having to do these steps themselves (and to do it each and every time they want to dip into the data). 
+
+I'll make an attempt to illustrate the ETL process: A data engineer working at Spotify has a large mound of messy and raw data that may be stored in a JSON format (if you have ever seen JSON data, it is awful to look at and to parse) that is collected and tossed into Spotify's data lake. The data engineer's job is to take that JSON data and parse it into something more readable and analyzable to then be put in a data warehouse such as a repository of csv files or into (more commonly) SQL databases. So at this step, the data engineer has to write code that "streams" data as it comes in from listeners and converts it to a tabular (row and column) format to then be placed into the data warehouse. 
+
+As you can probably guess this is a massive amount of data for companies like Spotify. Often times they have to use tools like MongoDB and Hadoop rather than MySQL. What is more relevant to academics is that the users and regulators often have expectations about the protection of the user's data. When streaming this data from the user, they are not putting everything from the JSON file into the same database! They put some of the data into a financial table such as the user's credit card and subscription information, while they put other parts into a separate table that stores information about the user's listening habits.
+
+These tables are still connected so that if we need to look at information about the user across the tables, we can still do so. So, for example, in all of these Tables we have stored a unique user id. Having a user id column in common among these tables allow us to speak across them if we need to. They disaggregated the tables, however, so that not everything about the user is stored in one place. These tables are referred to as relational tables. These tables are stored in a data warehouse (a central place) that allow us quick and easy access to all of the tables if we need to. So that analysts and data scientists at Spotify know how these tables are connected, the data engineer would construct what is called a schema. That is, they'd document that the key way to look at user information across these tables is by looking at the unique user id.
+
+This way, when a data scientists needs training data for the new music recommendation model, there is documentation about how the data scientist can access user information (even if it is across multiple tables). This makes it easier for the data scientist to understand the underlying infrastructure, but allows the data engineer to protect the data (from either a potential hack, or more likely, a potential error in code). 
+
+# How does it benefit the open scientist in academia?
+
+Many quantitative researchers interact with human-subject data each and every day. One of the main requirements with our IRB's is that we are legally and ethically responsible for protecting the identities of our subjects. Often times, researchers just simply delete a column in the CSV file that they download from their Qualtrics or MTurk account after the study has completed. 
+
+One key problem with that is that you are deleting data! You are also deleting data in a way that you can't reproduce later! I don't think I need to go too much further to explain what the potential problems are. But one key one is: what if you delete the wrong column?!
+
+But we absolutely need to not publish a subject's personal information when we publish our replication materials for a study after peer review. We also need to make sure that if our computer is compromised (stolen, lost, has a virus, etc) that we are not leaving our subjects vulnerable. One way to do this is to decentralize our data. Just as a data engineer collects data from Spotify's data lake, and puts the data into separate, but related tables in our data warehouse, we can (and should) do the same thing. This makes it harder for external actors to access all of the data for our study, while also preserving information that allows us to course correct if we've made a mistake.
+
+Creating and sharing a schema (even if that is a simple google doc that you share with your lab members) that details how a particular study's data warehouse is structured, makes it easier for co-authors and lab members to quickly access data while preserving the decentralization of the data in case it is compromised. 
+
+Furthermore, when the paper is published, rather than publishing all of the data, you are able to share parts of your data warehouse and keep sensitive information in other parts of your data warehouse inaccessible to non-investigators for the project. 
+
+# How to implement it into an academic's workflow?
+
+Data lake, data warehouse, schema... this all sounds really fancy and makes it sound like I need to learn some super fancy technical tools to do this...
+
+You actually don't! While, yes for large organizations like Spotify they often rely on Cloud Computing to do these things. But for an academic, it is much more familiar than what you'd expect!
+
+Your data lake would be the common places that you go to download your study's data. Whether that is through Qualtrics, Amazon's MTurk, a hard drive, etc. You access and transform data with your data lake all of the time! Many of these tools I listed do it automatically.
+
+Your data warehouse can simply be a folder containing multiple csv files that contain the data from the same study. That is, rather than downloading your data into a single csv file and then running your analysis with that, you can download your csv file and write STATA, R, or Python code to save versions of your csv that have only some of the columns each (but all of them together).
+
+You can then develop your data warehouse's schema by opening up a file (e.g., txt, docx, or whatever else you like) and writing out information for your co-authors/lab members about what information each file contains and which column is shared in common between all of the files. People can then access it and run their analyses as they usually do!
+
+## A case for using a database rather than csv files
+
+While you've increased the security of your data by separating it out into multiple csv files, this is still not as safe as it can be. Some people store their files on Dropbox, store it on a external hard or flash drive, or even encrypt their study files on their computer. However, each of these have their limitations. 
+
+One additional security measure is to consider putting your study's data in a database. There are a number of tools that you can use to do this such as MySQL, SQLLite, PostgreSQL, or DuckDb (my personal favorite). To access data, someone can't simply just click on the .db file, but rather they have to connect to the database file and execute SQL code to extract it. 
+
+If you use R or Python, there are a number of packages that easily allow you to connect to the database and extract your data in your analysis script! So it is not too many extra steps. Furthermore, most of the basic SQL that academics would need to do is really simple.
+
+Another benefit is that with some of these SQL database options, you can even password protect the connection to the databases so that even if someone knows how to access the data with SQL, they can't connect to the database in the first place.
+
+So... not too many extra steps for an academic to protect their data from mistakes, from compromising the identity of their subjects, and increase the ease of which users can work with the data as they do not have to worry about teammates overwriting a file or deleting it on accident.
+
+# More resources
+
+Data engineers are experts with a number of tools that increase the automation of these tasks and can take the demands of larger and more complex infrastructures. 
+
+If you are interested or are involved in computational social science, it may be worth it to learn about some of these.
+
+If you want to start using DuckDB (my personal favorite for academic projects) for your academic analysis in either R or Python, you can checkout [their website](https://duckdb.org/). 
+
+As tools like DuckDB make it easier to access these databases with programming languages like R and Python, they still often require some amount of SQL to send queries to the database to access and interact with the data in the tables. [DataCamp has a really useful SQL cheatsheet](https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet).
+
+If you want to learn about tools that data engineers use for automation, big data, or cloud computing, I learned a lot of these ideas through a mixture of google and DataCamp's data engineering career track. While I am someone who typically does not advocate for things that you have to pay for (or for coding bootcamps), I did learn a lot from that career track that helped me get the foundations for a lot of these ideas and has opened my horizons for my dissertation and for the creation of my own webapp with a tool from my own published research that I had tried for years to figure out how to scale up (but now I finally have).
