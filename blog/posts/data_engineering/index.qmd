@@ -13,8 +13,6 @@ execute:
     warning: false
     echo: false
 ---
-![](data_image.jpg)^[<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/82675897@N00/69485963">Endless Numbers</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/82675897@N00">re_birf</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0</a>. </p>]
- 
 
 # What is data engineering?
 
