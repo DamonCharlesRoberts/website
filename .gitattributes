@@ -1,0 +1,2 @@
+*.tex linguist-vendored
+*.qmd linguist-language = R
