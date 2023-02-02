@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Damon C. Roberts"
-  favicon: assets/cover/cover.png
+  favicon: assets/favicon_io/favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
