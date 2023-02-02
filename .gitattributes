@@ -1,2 +1,4 @@
 *.tex linguist-vendored
 *.qmd linguist-language = R
+*.cls linguist-vendored
+*/cv/* linguist-vendored
