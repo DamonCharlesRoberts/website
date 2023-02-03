@@ -2,3 +2,4 @@
 *.qmd linguist-language = R
 *.cls linguist-vendored
 */cv/* linguist-vendored
+*.html linguist-vendored
