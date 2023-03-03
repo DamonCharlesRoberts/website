@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "nba-2023"
+version = "0.1.0"
+description = ""
+authors = ["Damon C. Roberts <damon.charles.roberts@gmail.com>"]
+readme = "README.md"
+packages = [{include = "nba_2023"}]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+polars = "^0.16.9"
+numpy = "^1.24.2"
+requests = "^2.28.2"
+nba-api = "^1.1.14"
+pandas = "^1.5.3"
+pyarrow = "^11.0.0"
+duckdb = "^0.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

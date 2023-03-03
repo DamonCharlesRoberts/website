@@ -1,0 +1,14 @@
+---
+title: "Why should academics care about data engineering principles?"
+author: "Damon C. Roberts"
+date: 1/19/2023
+categories:
+    - sports
+    - bayesian
+    - bradley-terry
+draft: true
+execute:
+    message: false
+    warning: false
+    echo: false
+---
