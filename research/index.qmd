@@ -47,7 +47,7 @@ nocite: |
 <p>
     Roberts, Damon C. 2022. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i>
     <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}]()</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)</i>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci)</i>
 </p>
 
 ## Public Scholarship
