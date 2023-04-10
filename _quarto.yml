@@ -34,6 +34,10 @@ website:
             text: genCounter--Webapp
           - href: https://github.com/DamonCharlesRoberts/ScrapeCongress
             text: ScrapeCongress--R Package (R.I.P, Thanks Elon Musk)
+      - text: "Workshops"
+        menu:
+          - href: https://experiments.workshops.damoncroberts.com
+            text: Experiments - Spring 2023
       - icon: github
         href: https://github.com/damoncharlesroberts
   page-footer:
