@@ -53,7 +53,7 @@ nocite: |
 <p>
     Roberts, Damon C. 2022. "Not absent, just different: The implications of gender on white's racial attitudes." <i>Working Paper</i>
     <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa presentation-screen size=2x title="Slide deck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i>
 </p>
 ## Public Scholarship
 
