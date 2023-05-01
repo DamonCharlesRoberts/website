@@ -40,7 +40,7 @@ nocite: |
 
 <p> Roberts, Damon C. ""How do colors convey political information and affect individual attitudes?" <i>Working Paper</i>
     <br>
-    <i style="padding-left:1em">[{{< fa file-pdf size=2x title="Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[[{< fa file-pdf size=2x title="Supplimentary Information to Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/)</i>
+    <i style="padding-left:1em">[{{< fa file-pdf size=2x title="Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa file-pdf size=2x title="Supplimentary Information to Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/)</i>
 </p>
 
 <p>
@@ -61,6 +61,10 @@ nocite: |
     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i>
 </p>
 
+## Book projects
+
+Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>Not under contract. In progress.</i>
+
 ## Public Scholarship
 
 ### Articles
@@ -78,7 +82,3 @@ nocite: |
     <i>New York Times</i>  ["How much do voters really care about Biden's age?"](https://t.co/kbAAvAjwUw).
     <i>University of Colorado Boulder press</i> On: Joe Biden's re-election announcement and his age. May 2023.
 </p>
-
-## Book projects
-
-Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>Not under contract. In progress.</i>
