@@ -38,23 +38,29 @@ nocite: |
 
 ## Select Working Papers^[See CV for full list]
 
+<p> Roberts, Damon C. ""How do colors convey political information and affect individual attitudes?" <i>Working Paper</i>
+    <br>
+    <i style="padding-left:1em">[{{< fa file-pdf size=2x title="Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[[{< fa file-pdf size=2x title="Supplimentary Information to Pre-analysis plan" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/)</i>
+</p>
+
 <p>
-    Roberts, Damon C. 2022. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i>
+    Roberts, Damon C. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i>
     <br>
     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/drafts/fa_2022/dcr_white_identity_relative_deprivation_fa_2022.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i>
 </p>
 
 <p>
-    Roberts, Damon C. 2022. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i>
+    Roberts, Damon C. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i>
     <br>
     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci)</i>
 </p>
 
 <p>
-    Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. 2022. "Not absent, just different: The implications of gender on white's racial attitudes." <i>Working Paper</i>
+    Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. "Not absent, just different: The implications of gender on white's racial attitudes." <i>Working Paper</i>
     <br>
     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i>
 </p>
+
 ## Public Scholarship
 
 ### Articles
@@ -69,4 +75,10 @@ nocite: |
 
 <p>
     <i>Colorado Public Radio</i>. On: The effects of candidate age on electability. August 31, 2022.
+    <i>New York Times</i>  ["How much do voters really care about Biden's age?"](https://t.co/kbAAvAjwUw).
+    <i>University of Colorado Boulder press</i> On: Joe Biden's re-election announcement and his age. May 2023.
 </p>
+
+## Book projects
+
+Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>Not under contract. In progress.</i>
