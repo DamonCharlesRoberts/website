@@ -20,6 +20,7 @@ Projects that have a set standard can be more efficient meaning that we can get 
 
 ## So what does this cover?
 
+
 I am concerned about efficiency and reproducibility not just at the project level, but also at the document level. For any executable documents we use containing code, I want that code to be optimized so that it is also efficient and reproducible. I've done quite a bit of heavy lifting in terms of learning about fundamental computer science practices, about open science, and about style guidelines like PEP8 and TidyR. So that you don't have to do the heavy lifting on all of this, I'll document a lot of the key things here. This will let you read and understand my code without you having to do a lot of googling to understand what I was doing (hopefully 😊).
 
 ## File structure
@@ -49,7 +50,6 @@ I am concerned about efficiency and reproducibility not just at the project leve
 |   |-- README.md
 |   |__ renv.lock
 ```
-
 -   `.` is the the `root` or main folder for the project.
 -   `assets/` contains any files that are tangentially used. This includes things like `.bib` files.
 -   `data/` contains any data for the project.
@@ -128,7 +128,6 @@ library(tidyverse)
 ## YES!
 
 ``` r
-
 2 + 2 # adds 2 and 2 together
 ```
 :::
