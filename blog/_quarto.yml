@@ -9,7 +9,9 @@ website:
   open-graph: true
 format:
   html:
-    theme: journal
+    theme: 
+      - flatly
+      - ../assets/custom.scss
     code-copy: true
     css: styles.css
     toc: true

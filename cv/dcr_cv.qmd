@@ -79,6 +79,7 @@ Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machin
 
 1. ScrapeCongress - An R package to scrape the tweets of U.S. Congressmembers. url: \href{https://www.github.com/damoncharlesroberts/ScrapeCongress}{Github}
 2. genCounter - A python webapp to use the gendered language dictionary. url: \href{https://www.damoncroberts.pythonanywhere.com}{gencounter website}
+3. fancy-doc - A Quarto extension to produce PDF's with \LaTeX's `fancyhdr` package. url: \href{https://www.github.com/damoncharlesroberts/fancy-doc}{Github}
 
 # Interviews
 
