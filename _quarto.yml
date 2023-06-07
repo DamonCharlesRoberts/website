@@ -32,6 +32,8 @@ website:
         menu:
           - href: https://gencounter.app.damoncroberts.com
             text: genCounter--Webapp
+          - href: https://github.com/DamonCharlesRoberts/fancy-doc
+            text: fancy-doc--Quarto Extension
           - href: https://github.com/DamonCharlesRoberts/ScrapeCongress
             text: ScrapeCongress--R Package (R.I.P, Thanks Elon Musk)
       - text: "Workshops"
