@@ -40,7 +40,7 @@ nocite: |
 
 <p> Roberts, Damon C. "How do colors convey political information and affect individual attitudes?" <i>Working Paper</i>
     <br>
-    <i style="padding-left:1em">[{{ fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/color_as_political_information/tree/main/out/)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)
+    <i style="padding-left:1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/color_as_political_information/tree/main/out/)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)
 </p>
 
 <p>
