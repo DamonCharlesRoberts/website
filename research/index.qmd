@@ -41,7 +41,7 @@ nocite: |
 <p>
     Roberts, Damon C. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i>
     <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/drafts/fa_2022/dcr_white_identity_relative_deprivation_fa_2022.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i>
+    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i>
 </p>
 
 <p>
