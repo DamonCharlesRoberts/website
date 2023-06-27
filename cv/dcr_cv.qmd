@@ -1,5 +1,7 @@
 ---
-name: "Damon C. Roberts"
+name: Damon C. Roberts
+orcid: https://orcid.org/0000-0002-4360-3675
+gscholar: https://scholar.google.com/citations?user=D24LKlAAAAAJ
 address:
     address: "Ketchum Hall 382, UCB 333, University of Colorado Boulder"
     city: "Boulder"
@@ -10,6 +12,7 @@ website: "https://www.damoncroberts.com"
 format:
     pdf:
         template: ../assets/cv/cv_template.tex
+
 ---
 
 # Appointments
@@ -19,39 +22,27 @@ Lab Fellow, American Politics Research Lab
 # Education
 
 Ph.D. Candidate, Department of Political Science,
-University of Colorado Boulder, August 2019 - Present,
-Concentration: American Politics and Methodology
+University of Colorado Boulder, August 2019 - Present \
+Dissertation: "The color and shape of politics: How citizens process politically-relevant visual information and its consequences." \
+Committee: Anand E. Sokhey, Jennifer Fitzgerald, Alexandra Siegel, Amanda Frieson, Efrén O. Pérez
 
 Master of Arts, Department of Political Science,
-University of Colorado Boulder, May 2021,
-Concentration: American Politics and Methodology
+University of Colorado Boulder, May 2021
 
 Bachelor of Science, Department of Political Science,
-Boise State University, Boise, ID, May 2019,
-Concentration: American Politics and Public Policy
+Boise State University, Boise, ID, May 2019
 
-# Research Interests
-## In American Politics
-
-Political Psychology, Political Communication, Identity, Neuroscience, and Participation
-
-## Methods
-
-Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machine Learning
 
 # Publications
 
 ## Peer reviewed
-
-5. Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" *Political Behavior*^[Coverage of paper in: *The Economist*, *The New York Times*, University of Colorado News].
-
-4. Fahey, James J. Damon C. Roberts, and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." *American Politics Research*
-
-3. Roberts, Damon C. and Stephen M. Utych. 2021. "A Delicate Hand or Two Fisted Affression? How Gendered Language Influences Candidate Perceptions." *American Politics Research*
-
-2. Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized Social Distancing: Residents of Republican-Majority Counties Spend More Time Away from Home During the COVID-19 Crisis." *Social Science Quarterly*
-
-1. Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." *Political Research Quarterly*
+\begin{etaremune}[start=5]
+  \item Roberts, Damon C. and Jennifer Wolak. 2022. ``\href{https://link.springer.com/article/10.1007/s11109-022-09802-5}{Do Voters Care about the Age of their Elected Representatives?}" \emph{Political Behavior}.\footnote{Coverage of paper in: *The Economist*, *The New York Times*, University of Colorado News} DOI: 10.1007/s11109-022-09802-5
+  \item Fahey, James J. Damon C. Roberts, and Stephen M. Utych. 2022. ``\href{https://journals.sagepub.com/doi/pdf/10.1177/1532673X221087601}{Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech.}" \emph{American Politics Research}. DOI: 10.1177/1532673X221087601
+  \item Roberts, Damon C. and Stephen M. Utych. 2021. ``\href{https://journals.sagepub.com/doi/abs/10.1177/1532673X211064884?journalCode=aprb}{A Delicate Hand or Two Fisted Affression? How Gendered Language Influences Candidate Perceptions.}" \emph{American Politics Research}. DOI: 10.1177/1532673X211064884?journalCode=aprb
+  \item Roberts, Damon C. and Stephen M. Utych. 2021. ``\href{https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13101}{Polarized Social Distancing: Residents of Republican-Majority Counties Spend More Time Away from Home During the COVID-19 Crisis.}" \emph{Social Science Quarterly}. DOI: 10.1111/ssqu.13101
+  \item Roberts, Damon C. and Stephen M. Utych. 2020. ``\href{https://journals.sagepub.com/doi/pdf/10.1177/1065912919874883}{Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words.}" \emph{Political Research Quarterly}. DOI: 10.1177/1065912919874883
+\end{etaremune}
 
 ## Public Scholarship
 
@@ -72,7 +63,19 @@ Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machin
 * "Moneyballing with partisanship: Political forecasting and models of vote choice."
 
 ## Book projects (in progress)
-* "The shape and color of politics: How citizens process political information and its consequences."
+* "The shape and color of politics: How citizens process politically-relevant visual information and its consequences."
+
+# Honors, Grants, Awards
+
+* 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science
+* 2022. Teamwork Grant - University of Colorado Boulder, Department of Political Science
+* 2021. Travel Grant - Elections, Voting, Public Opinion, and Behavior Section - American Political Science Association
+* 2021. Time-Sharing Experiments for the Social Sciences Short Studies Program Grant - TESS Funded by the National Science Foundation
+* 2021. Small Research Grant - University of Colorado Boulder, Department of Political Science
+* 2020. ICPSR Summer Short Course Scholarship - University of Colorado, Department of Political Science
+* 2020. Summer Co-Authorship Grant - University of Colorado Boulder, Political Science Graduate Program
+* 2019. Boise State University - School of Public Service Small Research Grant
+* 2019. Boise State University - School of Public Service Student Travel Grant
 
 # Software
 
@@ -132,30 +135,6 @@ Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machin
 * PSCI 1101 - Introduction to American Politics - Fall 2019, Spring 2020
 * PSCI 2075 - [Quantitative Research Methods - Spring 2023](https://sp23.psci2075.classes.damoncroberts.com/)
 
-# Honors, Grants, Awards
-
-* 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science
-* 2022. Teamwork Grant - University of Colorado Boulder, Department of Political Science
-* 2021. Travel Grant - Elections, Voting, Public Opinion, and Behavior Section - American Political Science Association
-* 2021. Time-Sharing Experiments for the Social Sciences Short Studies Program Grant - TESS Funded by the National Science Foundation
-* 2021. Small Research Grant - University of Colorado Boulder, Department of Political Science
-* 2020. ICPSR Summer Short Course Scholarship - University of Colorado, Department of Political Science
-* 2020. Summer Co-Authorship Grant - University of Colorado Boulder, Political Science Graduate Program
-* 2019. Boise State University - School of Public Service Small Research Grant
-* 2019. Boise State University - School of Public Service Student Travel Grant
-
-# Technical skills
-
-Python, R, Quarto, \LaTeX, Apache, DuckDB, SQL, Julia, Qualtrics, HTML, CSS, SPSS
-
-## Working Knowledge
-
-JavaScript, AWS, JAGS, MPLUS
-
-## Methods Training
-
-Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Surveys, GLM, MLM, NLP, SEM, Machine Learning, Formal Modeling
-
 # Service
 
 ## Referee
@@ -180,3 +159,15 @@ Research \& Politics, Electoral Studies
 * 2019--Present. Member. American Association for Public Opinion Research
 * 2018--Present. Member. American Political Science Association
 * 2018--Present. Member. Midwestern Political Science Association
+
+# Technical skills
+
+Python, R, Quarto, \LaTeX, Apache, DuckDB, SQL, Julia, Qualtrics, HTML, CSS, SPSS
+
+## Working Knowledge
+
+JavaScript, AWS, JAGS, MPLUS
+
+## Methods Training
+
+Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Surveys, GLM, MLM, NLP, SEM, Machine Learning, Formal Modeling
