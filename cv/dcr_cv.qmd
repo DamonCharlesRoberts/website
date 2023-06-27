@@ -1,6 +1,6 @@
 ---
 name: Damon C. Roberts
-orcid: https://orcid.org/0000-0002-4360-3675
+orcid: 0000-0002-4360-3675
 gscholar: https://scholar.google.com/citations?user=D24LKlAAAAAJ
 address:
     address: "Ketchum Hall 382, UCB 333, University of Colorado Boulder"
