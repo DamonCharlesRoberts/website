@@ -43,15 +43,15 @@ Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machin
 
 ## Peer reviewed
 
-1. Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." *Political Research Quarterly*
-
-2. Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized Social Distancing: Residents of Republican-Majority Counties Spend More Time Away from Home During the COVID-19 Crisis." *Social Science Quarterly*
-
-3. Roberts, Damon C. and Stephen M. Utych. 2021. "A Delicate Hand or Two Fisted Affression? How Gendered Language Influences Candidate Perceptions." *American Politics Research*
+5. Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" *Political Behavior*^[Coverage of paper in: *The Economist*, *The New York Times*, University of Colorado News].
 
 4. Fahey, James J. Damon C. Roberts, and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." *American Politics Research*
 
-5. Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" *Political Behavior*^[Coverage of paper in: *The Economist*, *The New York Times*, University of Colorado News].
+3. Roberts, Damon C. and Stephen M. Utych. 2021. "A Delicate Hand or Two Fisted Affression? How Gendered Language Influences Candidate Perceptions." *American Politics Research*
+
+2. Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized Social Distancing: Residents of Republican-Majority Counties Spend More Time Away from Home During the COVID-19 Crisis." *Social Science Quarterly*
+
+1. Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." *Political Research Quarterly*
 
 ## Public Scholarship
 
@@ -61,10 +61,9 @@ Experiments, Surveys and Polling, Bayesian statistics, Text Analysis, and Machin
 
 * Roberts, Damon C., Andrew M. Engelhardt, and Stephen M. Utych. "Racial Identity and Attitudes Towards Social Programs."
 * Roberts, Damon C. ["Giving the leaves back to the tree: Using random forest models in  the multiple imputation with chained equations framework for missing data."](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)
-* Roberts, Damon C. ["Economic concerns appear to be weak predictors of white political identity."](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/drafts/fa_2022/dcr_white_identity_relative_deprivation_fa_2022.pdf)
+* Roberts, Damon C. ["Economic concerns appear to be weak predictors of white political identity."](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)
 
 ## Working papers
-* ["How do colors convey political information and affect individual attitudes?"]()
 * "Social Communication, Social Expertise, and the Foundations of Political Involvement." (with Scott D. McClurg and Anand E. Sokhey)
 * "The Levels of Conceptualization Framework and Political Discussion." (with Jennifer Lin, Todd Makse, and Anand E. Sokhey)
 * ["Not absent, just different: The implications of gender on white’s racial attitudes."](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf) (with Courtney J. Nava and Komal Preet Kaur)
@@ -159,6 +158,10 @@ Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Survey
 
 # Service
 
+## Referee
+
+Research \& Politics, Electoral Studies
+
 ## Discipline Service
 
 * 2022. Northglenn STEM High School PBL. Theme: Social Movements. Expert Judge.
@@ -170,9 +173,6 @@ Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Survey
 * 2022--2023. Comps Liason (Department of Political Science, University of Colorado Boulder)
 * 2020--Present. Graduate Student Advisor of The Political Science Club (University of Colorado Boulder)
 * 2021--2022. MOPS (Mentors of Political Science) Coordinator (Department of Political Science, University of Colorado Boulder)
-* 2018--2019. President, Pi Sigma Alpha National Honor Society, Xi Chi Chapter (Boise State University)
-* 2017--2018. Financial Officer, Pi Sigma ALpha Political Science National Honor Society, Xi Chi Chapter (Boise State University)
-* 2015. Founder and President, Biology Club (Boise State University)
 
 # Professional Affiliations
 * 2022--Present. Member. International Society for Political Psychology
