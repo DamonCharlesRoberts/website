@@ -48,6 +48,11 @@ Boise State University, Boise, ID, May 2019
 
 * Roberts, Damon C. and Jennifer Wolak. 2022. ["Will Biden's age keep him from being re-elected?"](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/) *Washington Post*
 
+### Select blog posts
+
+* Roberts, Damon C. 2023. ["Why should academics care about data engineering principles?"](https://damoncroberts.com/blog/posts/data_engineering/)
+* Roberts, Damon C. 2022. ["Reading polls: the basics"](https://damoncroberts.com/blog/posts/reading_polls/reading_polls_index.html)
+
 ## Under Review
 
 * Roberts, Damon C., Andrew M. Engelhardt, and Stephen M. Utych. "Racial Identity and Attitudes Towards Social Programs."
@@ -98,6 +103,8 @@ Boise State University, Boise, ID, May 2019
 
 # Conference presentations
 
+* Roberts, Damon C. 2023. "How does color influence our political conversations?" [Presented at the Annual Meeting of the International Society of Political Psychology, Montreal.](https://ispp2023.presentations.damoncroberts.com/#/title-slide)
+* Roberts, Damon C. 2023. "How does color influence our political conversations?" [Presented at the Annual Meeting of the Frontrange Political Science Association, Fort Collins.](https://frapsa2023.presentations.damoncroberts.com/#/title-slide)
 * Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. 2023. "Not absent, just different: The implications of gender on white’s racial attitudes." [Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)
 * Roberts, Damon C. 2022. “Changing norms and polarization: How elites advance mass polarization.” Presented at Junior Americanist Workshop Series (JAWS).
 * Lin, Jennifer, Todd Makse, Damon C. Roberts, and Anand E. Sokhey. 2022. “The Levels of Conceptualization Framework and Political Discussion.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
