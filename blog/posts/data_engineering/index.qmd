@@ -77,31 +77,11 @@ DuckDB is an extremely useful tool. DuckDB is not only an implementation of the 
 
 For the purposes of an academic researcher, one can create separate tables within the same `.db` file on their computer. You can do this by first downloading your raw data from your data lake, convert the file into a `.db` file, delete the `.csv`, `.xlsx`, or `.dta` file of your raw data, and then start cleaning and later analyzing your data from the `.db` file directly. DuckDB has full integration in both R and Python. One can quite easily write a simple SQL query to load the data from the dataset, do cleaning as they normally would with their data cleaning libraries (`dplyr`, `data.table`, `pandas`, `pola-rs`) that they prefer, then store the cleaned data into the tables in their `.db` file. Those more familiar with SQL can directly write queries to do the data cleaning in the `.db` file rather than loading it into a R or Python session and then saving over the uncleaned data. 
 
-```{mermaid}
-%%| label: fig-csv-process
-%%| fig-cap: ETL with CSV files
-%%| fig-width: 6.5
-%%{init: {'theme':'base', 'themeVariables':{'primaryColor':'#ffffff', 'primaryBorderColor': '#000000'}}}%%
-flowchart TD;
-A[Download raw data] --> B[Split into multiple CSV files with unique identifier columns]
-B --> C[Clean data from the CSV files using unique identifier column while keeping it in separate files]
-C --> D[Analyze data with cleaned data]
-```
+![ETL with CSV files](./assets/mermaid-figure-1.png){#fig-csv}
 
-```{mermaid}
-%%| label: fig-db-process
-%%| fig-cap: ETL with DuckDB files
-%%| fig-width: 6.5
-%%{init: {'theme':'base', 'themeVariables':{'primaryColor':'#ffffff', 'primaryBorderColor': '#000000'}}}%%
-flowchart TD;
-A[Download raw data] -->B["Convert into a .db file: <br/> library(DBI) <br/> connection <- dbConnect(DuckDB::DuckDB(), 'db_file.DuckDB') <br/> dbExecute(connection, ''CREATE TABLE rawData AS SELECT * FROM 'raw_data.csv''')"]
-B --> C["Load from raw data table <br/> raw_df <- dbGetQuery(connection, ''SELECT * FROM rawData'')"]
-C --> D[Clean data]
-D --> E["Store each table: <br/> dbWriteTable(connection, ''secureData'', secure_data_df) <br/> dbWriteTable(connection, ''demographicData'', demographic_data_df) <br/> dbWriteTable(connection, ''politicalData'', political_attitudes_df)"]
-E --> F["Analyze data: <br/> demographic_df <- dbGetQuery(connection, ''SELECT * FROM demographicData'') <br/> political_attitudes_df <- dbGetQuery(connection, ''SELECT * FROM politicalData'') <br/> df <- merge(demographic_df, political_attitudes_df, by = ''unique_id'')"]
-```
+![ETL with DuckDB files](./assets/mermaid-figure-2.png){#fig-duckdb}
 
-@fig-csv-process and @fig-db-process provides a visual representation of what the integration of the ETL process looks like for academics. Doing these steps summarized in the figures adds only one or two extra steps and necessitates learning one or two commands in SQL, but makes dramatic improvements on the security and reproducibility of one's data. With the simplicity of these extra steps but the dramatic improvements they provide, I think quantitative researchers could dramatically improve their data management practices!
+@fig-csv and @fig-duckdb provides a visual representation of what the integration of the ETL process looks like for academics. Doing these steps summarized in the figures adds only one or two extra steps and necessitates learning one or two commands in SQL, but makes dramatic improvements on the security and reproducibility of one's data. With the simplicity of these extra steps but the dramatic improvements they provide, I think quantitative researchers could dramatically improve their data management practices!
 
 # Concluding thoughts
 
