@@ -32,7 +32,7 @@ While this answered some questions such as: "is it that people don't vote for yo
 :::
 :::
 
-<p>Fahey, James J. and Damon C. Roberts and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X22108760">10.1177/1532673X22108760</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X221087601)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1532673X221087601/suppl_file/sj-pdf-1-apr-10.1177_1532673X221087601.pdf)</p>
+<p>Fahey, James J. and Damon C. Roberts and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X22108760">10.1177/1532673X22108760</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X221087601)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1532673X221087601/suppl_file/sj-pdf-1-apr-10.1177_1532673X221087601.pdf)</i></p>
 
 ::: {.callout-note appearance="minimal" collapse="true"}
 # Details about the project
