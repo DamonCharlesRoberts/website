@@ -18,7 +18,7 @@ On average, members of Congress are significantly older than the constituents th
 
 ## Less technical summary & other fun details
 
-This project came about from some conversations that my co-author and I were having at the time about the seemingly slow change for more descriptive representation in terms of age even though Congress was slowly diversifying.
+This project came about from some conversations that my co-author and I were having at the time about the seemingly slow change we were seeing in Congress in terms of the age of elected officials relative to their other characteristics.
 
 So I set out to find whatever research I could on age. My initial impression was that "well, its just that young people don't vote." A lot of work that I had been seeing seemed to suggest that that really wasn't the case -- it was that age was a smaller factor relative to partisanship, race, and gender. This wasn't all too surprising, but I wanted to dig into whether, when on its own age *could* matter.
 
