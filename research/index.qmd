@@ -5,84 +5,272 @@ nocite: |
 ---
 
 ## Published
-<p>
-    Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" <i>Political Behavior</i>. DOI: <a href="https://doi.org/10.1007/s11109-022-09802-5">10.1007/s11109-022-09802-5</a>.
-    <br>
-     <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://link.springer.com/article/10.1007/s11109-022-09802-5)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-022-09802-5/MediaObjects/11109_2022_9802_MOESM1_ESM.docx)</i>
-</p>
 
-<p>
-    Fahey, James J. and Damon C. Roberts and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X22108760">10.1177/1532673X22108760</a>.
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X221087601)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1532673X221087601/suppl_file/sj-pdf-1-apr-10.1177_1532673X221087601.pdf)
-</p>
+<p>Roberts, Damon C. and Jennifer Wolak. 2022. "Do Voters Care about the Age of their Elected Representatives?" <i>Political Behavior</i>. DOI: <a href="https://doi.org/10.1007/s11109-022-09802-5">10.1007/s11109-022-09802-5</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://link.springer.com/article/10.1007/s11109-022-09802-5)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-022-09802-5/MediaObjects/11109_2022_9802_MOESM1_ESM.docx)</i> <br></p>
 
-<p> 
-    Roberts, Damon C. and Stephen M. Utych. 2022. "A Delicate Hand, or Two Fisted Aggression? How Gendered Language Influences Candidate Perceptions." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X211064884">10.1177/1532673X211064884</a>.
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X211064884)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://doi.org/10.1177/1532673X211064884)</i>
-</p>
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
 
-<p>
-    Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized social distancing: Residents of Republican‐majority counties spend more time away from home during the COVID‐19 crisis." <i>Social Science Quarterly</i>. DOI: <a href="https://doi.org/10.1111/ssqu.13101">10.1111/ssqu.13101</a>.
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i>
-</p>
+::: panel-tabset
+## Abstract
 
-<p>
-    Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." <i>Political Research Quarterly</i>. DOI: <a href="https://doi.org/10.1177/106591291987488">10.1177/106591291987488</a>
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/epub/10.1177/1065912919874883)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix.7z)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix_-_Word_Rating_File.xlsx)</i>
-</p>
+On average, members of Congress are significantly older than the constituents they represent, while young people remain under-represented in elected office. Is this because people prefer older politicians and fail to see young people as viable candidates? Drawing on survey and experimental evidence, we explore how the age of a politician affects both candidate evaluations and incumbent approval. We find that people tend to see younger candidates as less experienced, less qualified, and less conservative than older candidates. However, we find few differences in people's willingness to support a younger candidate than an older candidate. In fact, when looking at patterns of approval in Congress, people report more negative ratings of older members of Congress rather than younger ones. The over-representation of older voices in Washington likely reflects structural factors like incumbency that favor the success of older politicians, rather than the demands of the electorate.
 
+## Less technical summary & other fun details
 
-## Select Working Papers^[See CV for full list]
+This project came about from some conversations that my co-author and I were having at the time about the seemingly slow change for more descriptive representation in terms of age even though Congress was slowly diversifying.
 
-<p>
-    Roberts, Damon C. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i>
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i>
-</p>
+So I set out to find whatever research I could on age. My initial impression was that "well, its just that young people don't vote." A lot of work that I had been seeing seemed to suggest that that really wasn't the case -- it was that age was a smaller factor relative to partisanship, race, and gender. This wasn't all too surprising, but I wanted to dig into whether, when on its own age *could* matter.
 
-<p>
-    Roberts, Damon C. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i>
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci)</i>
-</p>
+The first thing my coauthor and I looked into was survey data from a large and nationally-representative sample asking people about their demographics along with questions about how much they like the job performance of their member of Congress. What we found was that citizens tended to report that the performance of their representative was *worse* than the reported performance of those with younger representatives. So, we thought, hmmm age may matter here. It could just be that young people aren't voting and so they are not electing young people. We need to isolate things to get a clearer picture.
 
-<p>
-    Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. "Not absent, just different: The implications of gender on white's racial attitudes." <i>Working Paper</i>
-    <br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i>
-</p>
+So my coauthor and I ran an experiment through a firm that provides large and nationally-representative samples. In the experiment, we provided descriptions of candidates for the state legislator. We didn't do it for candidates of Congressional races because we were doing this during the 2020 election cycle and felt that people would probably know that these candidates were fake; but people tend to pay much less attention to local and even state-level elections. So, we kept these descriptions of the candidates entirely the same EXCEPT for the candidates age. We had a version of the candidate that was 23 years old, 50 years old, and 77 years old. We randomly presented people with one of the three descriptions of the candidates (again, the only difference between the candidates was the age). So if age matters, we should expect that people would think differently about the candidate than someone who read about the candidate but at a different age. To look at people's reactions to the candidate, we measured their willingness to vote for the candidate and asked people about things like how competent they felt the candidate would be.
+
+What we ended up finding was that while people do think that younger candidates are much more liberal than older candidates, have much less experience, we saw that people weren't any less likely to vote for them -- even older participants of the study! So age doesn't really seem to impact vote choice. Nor does our results suggest that older voters are the ones leading to the "greying of congress"!
+
+While this answered some questions such as: "is it that people don't vote for young candidates?" and "is it that young candidates have more negative stereotyped character traits to them?" (which the answers to both questions were, "NO."), there are a lot more questions to answer!
+:::
+:::
+
+<p>Fahey, James J. and Damon C. Roberts and Stephen M. Utych. 2022. "Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X22108760">10.1177/1532673X22108760</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X221087601)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1532673X221087601/suppl_file/sj-pdf-1-apr-10.1177_1532673X221087601.pdf)</p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Political scientists have long been interested in the effects that media framings have on support or tolerance for controversial speech. In recent years, the concept of cancel culture has complicated our understanding of free speech. In particular, the modern Republican Party under Donald Trump has made "fighting cancel culture" a cornerstone of its electoral strategy. We expect that when extremist groups invoke cancel culture as a reason for their alleged censorship, support for their free speech rights among Republicans should increase. We use a nationally representative survey experiment to assess whether individuals' opposition to cancel culture is principled or contingent on the ideological identity of the speaker. We show that framing free speech restrictions as the consequence of cancel culture does not increase support for free speech among Republicans. Further, when left-wing groups utilize the cancel culture framing, Republicans become even less supportive of those groups' free speech rights.
+
+## Less technical summary & other fun details
+
+My coauthors say that they brought me onto the project to "help make some pretty graphs in R", which if I have to be honest, I think they are O.K. James is also an extremely good methodologist, so I think they were just trying to convince me to join a project while I was studying for comps. I think they really brought me onto the project, though, because like them, I am a bit of a masochist who'd say "yes" to any project I am invited onto even though I am behind on other responsibilities. I think it also helped that I was extremely suspicious of the people that would act like concerns about cancel culture was universal.
+
+So, I got brought onto the project relatively early on. We pretty quickly were able to get a straightforward experimental design together that would help us see whether Republicans seeing Democrats being canceled relative to seeing other Republicans canceled and whether Democrats seeing Republicans being canceled relative to seeing other Democrats canceled were all equivalent. The idea behind the study was to randomly assign Republican and Democrat participants into one of two conditions, they saw fictional news article about ANTIFA (a left-wing group) not being allowed to speak on a college campus because of concerns from the community, or they saw fictional news article (that was worded exactly the same) about the Proud Boys (a right-wing group) not being allowed to speak. The only thing that we changed about the news article was the group that we named. Everything was left the same. For one thing, this experimental design allowed for us to see whether there were differences between Republican and Democrat respondents overall on being concerned about cancel culture (regardless of the group being cancelled). Second, the design enabled us to examine whether there were differences about which group mattered. We might expect that Republicans would not want to see conservative voices cancelled, but they may care less if liberal voices were. Some people felt that Republicans would not want to see any set of voices cancelled because Republicans were defending their arguments about the evils of cancel culture on the basis of concerns for the lack of recognition for the first amendment. We didn't really buy that.
+
+Both James and I were graduate students (at the time) and Steve was publishing 20 experimental papers a year in a department that did not have enough resources to support that volume of data collection. Thankfully the extremely kind and supportive Jamie Druckman and folks at NORC and TESS were willing to run our study. After the celebrations subsided, we fielded the study.
+
+The results fit with our intuitions: cancel culture appeared to mostly be a thing that Republicans were concerned about. Second, and most importantly, Republicans seemed to only care about cancel culture when conservative voices were being canceled. They did not seem to have too many qualms with ANTIFA being disallowed from speaking on a college campus.
+
+Overall, this work fits in with a much larger set of research in American politics. First, people *really* do care about their partisan labels. While many of us have historically held onto the norm that "I just want to vote for the right candidate," funnily enough, "the right candidate" tends to be from the same party like 99% of the time. Why this happens is human psychology. Though, I hate the analogy of politics with sports, because it has extremely *serious* consequences for people's livelihoods, experiences, and even if they live or die; but it often is a pretty easy one to use to communicate the psychology. Partisanship is kind of like a sports team. Citizens in the United States tend to have a sports team that they root for. Like a sports team, we tend to root for our team regardless of whether they win or lose -- but we ***really*** want them to win. Now, if we are told that our team is full of really bad people and they are not allowed to play, then we are obviously going to be pretty upset about that. If, instead, we hear that another team is really bad, well then we buy it, shrug our shoulders and say, "yeah, that seems like an okay punishment." This is called "motivated reasoning" and is the main thing that we think is going on here. The study does not say that Democrats are incapable of engaging in motivated reasoning, because they definitely are, its just that on the issue of cancel culture, it seems to mostly be a Republican thing.
+:::
+:::
+
+<p>Roberts, Damon C. and Stephen M. Utych. 2022. "A Delicate Hand, or Two Fisted Aggression? How Gendered Language Influences Candidate Perceptions." <i>American Politics Research</i>. DOI: <a href="https://doi.org/10.1177/1532673X211064884">10.1177/1532673X211064884</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/abs/10.1177/1532673X211064884)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://doi.org/10.1177/1532673X211064884)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Gendered language is seemingly found everywhere in American politics. We test the impact that gendered language has on voter support for a candidate, using a validated dictionary of words rated as highly masculine or feminine. In three experimental studies, we find that the use of feminine language causes individuals to perceive political candidates as more liberal. Additionally, liberals tend to prefer candidates who use feminine language, and conservatives prefer candidates who use masculine language, regardless of the sex of the candidate. These effects are mostly mediated, however, by perceptions of candidate ideology caused by the use of language.
+
+## Less technical summary & other fun details
+
+When you think of the Republican party, do you think of a rugged man who exudes American individualism (I can do things for my self)? Do you imagine this for the Democratic party too? Yeah, that is what we are getting at in this study. Obviously, not all Republicans are men nor is it true that all of them are cowboys. Growing up on a ranch in the southwest of the United States, I can definitely tell you that these traits are synonymous with Republicans. Though, we do have an easier time linking Republicans to this caricature than we do with Democrats. More specifically, we want to see how Republicans and Democrats have distinguished themselves in this way.
+
+In this study we are building off a previous study that I came up with the original idea for when I was an undergraduate student. The main idea of this and the previous study is that Republicans have actively made it part of their brand to associate themselves with masculinity. They have done this undoubtedly through things like their stance on crime, their small government and "I can do things for myself" mentality. However, we wanted to examine whether this can be communicated through something more subtle -- through the words they use.
+
+In this study we are using a dictionary of words that we identified as being considered as masculine, feminine, or something else. We want to see whether the use of more masculine words by a candidate communicated close alignment with the Republican party brand that they have been cultivating for some time. We run an experiment where we have fictional candidates use a masculine, a non-gendered, or a feminine synonym to talk about a policy. Participants in the experiment were randomly assigned so that if there are any differences between perceptions about the candidates, they would be because of the differences in word choice and not on something else.
+
+What we ended up finding in the study is that liberal participants preferred candidates that used the feminine synonyms while conservatives preferred those using the masculine language. We even varied the sex of the candidate and this did not matter. How this happened was that masculine words communicate information about the ideology of the candidate -- masculinity is so tied to the conservative brand that the use of masculine words made people feel that the candidate was conservative and ***that*** path is what made people prefer a liberal or a conservative candidate more; not that there was anything more inherently attractive about the use of a masculine versus a feminine word choice on its own.
+
+So, if you want a real world example, think of Lauren Boebert. She is a fascinating politician in that she does not present as masculine. However, she uses a lot of masculine words when she talks about policy issues and politics. And her conservative constituents have voted for her because of it.
+:::
+:::
+
+<p>Roberts, Damon C. and Stephen M. Utych. 2021. "Polarized social distancing: Residents of Republican‐majority counties spend more time away from home during the COVID‐19 crisis." <i>Social Science Quarterly</i>. DOI: <a href="https://doi.org/10.1111/ssqu.13101">10.1111/ssqu.13101</a>. <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13101)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+### Background
+
+The COVID-19 pandemic has presented unique challenges across the world in getting citizens to change their behaviors in response to a public health crisis. In the United States, it appears that partisan differences in willingness to comply with these measures have emerged: Democrats are typically more supportive than Republicans in their stated support of and willingness to comply with these measures. However, actual behaviors are notoriously hard to accurately capture with survey items.
+
+### Objective
+
+To determine the extent to which county-level partisanship influences average willingness to stay at home, and how these effects are moderated by county level characteristics.
+
+### Methods
+
+We use personal device (cell phone) data provided by SafeGraph, aggregated at the county-level, to determine how county-level partisanship is correlated with willigness to stay at home. We additionally test whether these effects are conditional upon the prevalence of COVID-19 in the county, and the percentage of the county under 30 years old.
+
+### Results
+
+We find that county-level partisanship predicts aggregate level compliance with social distancing behavior---citizens of counties that are more Republican spend more time away from home than Democratic counties. We find that the number of COVID-19 cases in the county and the percentage of the county under the age of 30 moderate these effects.
+
+### Conclusion
+
+Partisanship appears to be a powerful predictor, at the county-level, of willigness to follow stay at home orders in the early stages of the COVID-19 pandemic.
+
+## Less technical summary & other fun details
+
+The year was 2020. I had only had about one-and-a-half semesters of grad school (which felt like too many already) and I was working from home. I saw an email that said that I could get access to a massive dataset compiled by a company that has data on how much time they spend away from home on a daily basis across the United States. This was a massive dataset and was stored on a AWS server. I thought to myself that it might be an interesting opportunity to learn how to work with truly *chonky* datasets. Then the idea popped into my head, "why don't I lok at whether people living in Republican-dominant counties are spending less time at home than those in Democrat-dominant ones?"
+
+So, I reached out to the person I had been collaborating on projects with and had a really nice workflow established. Steve liked the idea but told me "well, the data is up to you man!" So, I got working. Eventually I figured things out and was able to start running some analyses -- though I had to switch to STATA and had to use some fancy procedure to let me examine representative rows in the data rather than the whole dataset because at the time I didn't really know about multi-core processing, `Julia` wasn't really a thing yet, nor was multi-core lazy-evaluation queries with `DuckDB` and `Polars`. If I could do the study now, hahaha, I would probably figure out a way to make it work with only 8GB of RAM -- oh, how much I've learned.
+
+Well, what we ended up finding was that those in Republican-dominant counties were indeed spending much less time at home during the COVID-19 lockdowns rather than Democrats. We had a lot of drama with getting this paper published and there has still been some drama since. But, I'm grateful and glad this paper eventually found a home. It is important that we see how the politicization of things like public health really have life-and-death outcomes -- it is really sobering as a political scientist to see how my efforts to study politics can provide information about these sorts of outcomes; even if no one reads my work. Even if someone did read my work and if Republicans read it, the unfortunate thing about where we are at in the United States is that it probably wouldn't have changed anyone's behavior.
+:::
+:::
+
+<p>Roberts, Damon C. and Stephen M. Utych. 2020. "Linking Gender, Language, and Partisanship: Developing a Database of Masculine and Feminine Words." <i>Political Research Quarterly</i>. DOI: <a href="https://doi.org/10.1177/106591291987488">10.1177/106591291987488</a> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://journals.sagepub.com/doi/epub/10.1177/1065912919874883)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix.7z)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://journals.sagepub.com/doi/suppl/10.1177/1065912919874883/suppl_file/Appendix_-_Word_Rating_File.xlsx)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Seemingly, gender, language, and partisanship are intertwined concepts. We believe that the use of gendered language in political settings may be used strategically by political elites. The purpose of this paper is to craft a tool for scholars to test the interconnection between politics, gender, and language---what we refer to as being the gendered language and partisanship nexus. We test our prediction using original word rating data. From our test, we find significant variation across seven hundred words in ratings as masculine and feminine and discover that words rated as masculine are more likely to be rated as dominant and negatively valenced. We additionally find that Republican men are most likely to rate words as more masculine. Using this dictionary, we find that Republican presidents are more likely to use masculine language than Democratic presidents in their State of the Union addresses and that the Republican Party uses more masculine language than the Democratic Party in their official party platform.
+
+## Less technical summary & other fun details
+
+This paper holds a very special place in my heart. This paper was my first foray into academic research. It started as a research paper for an upper-division political communication class when I was an undergraduate. The other thing I love about this paper is that I think it speaks to the value of using intuition in science. While we definitely need to tie all of our work back to the work that others have done so that we are building upon scientific knowledge, I was an undergraduate. At the time I had *some* knowledge of machine learning and natural language processing from some of my work as a data analyst and from friends who were enamored by advancements in technology. But, I didn't necessarily understand the technical details of it all. So not only did this paper really rely on my intuition of the literature on American politics and political communication, but it also relied quite a bit on my intuition for the methodological advancements we are making here. I also think that is a part of the paper that is a bit undersold -- it created a methodological tool, its not just a substantive paper but I think it is also equal part methodological. I think this is also supported by the way that it is cited. 😉 But more generally, this is the sort of model that I have tried to take with my other papers too -- make use of my (now more advanced) computational social science knowledge to get creative to address substantive questions.
+
+In my third publication, I provide some discussion about the motivation of that and this paper: we wanted to understand how Republicans had come to communicate the "party of men" brand that they had come to become synonymous with. For this study, we wanted to examine whether there were differences in general between the use of masculine versus feminine words between Republicans and Democrats.
+
+My coauthor for this paper was the instructor for that class and has been a tremendous collaborator, friend, and mentor over the years (even though that he has left academia since). He encouraged me to continue to explore this question. He thankfully jumped on to help me execute my ideas. I did not have the money to complete this study nor did I have the skills to successfully tie my intuition into work that had already been done in this area.
+
+Once he came onto the project, he pulled together some funds to pay people on a crowdsourcing platform called Amazon's MTurk. On there, we asked people to rate words as either masculine, feminine or neither using a sliding scale with a bunch of numerical values so that we could understand whether a word was "extremely masculine" versus "kind of masculine". Once we had people rate hundreds of words and confirmed that many of these people gave the same words very similar scores, we then downloaded speeches from the State of the Union Addresses that U.S. Presidents deliver yearly. We then used a software to detect the words used in the speech that matched with those in our dictionary, took the scores from the dictionary and then gave us an aggregate score of the document's "gendered word prevalence." This score let us quantify how much of the speech used masculine or feminine words and to what extent where they masculine or feminine.
+
+What we ended up finding was that Republican Presidents used much more masculine language in their speeches than Democrats did!
+
+Since working on this project, I've taken it upon myself to develop a web application from scratch to interface with our dictionary and to come up with similar scores. The software is still in beta testing and will probably stay there for a while until I can validate the scores as well as get more feedback on it. But if you would like to use [`genCounter`](https://gencounter.app.damoncroberts.com/), you are welcome to and I'd love to hear about how it works for you. Increasing functionality and things like that will probably take a while until I have a secure job and am no longer working on two book projects at the same time. But eventually! Especially since it costs me $12/month for the server and database costs.
+:::
+:::
+
+## Select Working Papers[^1]
+
+[^1]: See CV for full list
+
+<p>Roberts, Damon C. "Economic concerns appear to be weak predictors of white political identity." <i>Working Paper</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/white_identity_sources)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Do economic or political threats explain reported white identity? Overall, the social identity literature would suggest that white identity would increase in response to economic threats. However, a number of those that study white identity, specifically, argue that it results from concern about political influence. Considering what whiteness means historically and contemporaneously, I argue that we should expect that political threats reflect stronger associations with white identity. Using data from the 2012, 2016, and 2020 American National Election Study, I consider a single model using penalized regression containing proxies of economic and political threats. I find evidence suggesting that in the post-Trump era, white political identity is strongly associated with reported feelings of Whites’ loss of political influence as opposed to economic threats, as some suggest and may expect.
+
+## Less technical summary & other fun details
+
+This paper started out as my Qualifying Paper from my second year of graduate school (my Master's Thesis) and has been a labor of love. I have felt like the idea is straight-forward enough and that the methods that I am using here are good for the task, though kind of fancy. The tricky thing is trying to sell the paper as one that journals should publish in an age of not wanting papers that describe relationships rather than explain how one variable causes the other. Additionally, I started out using much less fancy methodological tools until I started my foray into Bayesian statistical approaches. So the paper has been two years in the making now. I am feeling pretty optimistic that it'll find a home soon.
+
+The main motivation behind this paper is to disentangle whether the "White grievance politics" that has become a focus in contemporary American politics is actually a symptom of White working and middle-class Americans being concerned about the loss of manufacturing jobs or whether it is rooted ni something much less tangible -- concerns about losing their political influence.
+
+There is a lot of research and historical accounts that posit that race is ***the*** central feature of the American political system of who has influence and who does not. I agree with this position. It would suggest that Whites look out for other Whites and participate in politics in a way to advance and defend the interests of other Whites. There is also a lot of work that demonstrates that Whites were seriously concerned about race when Barack Obama ascended to the White House. This showed up in a number of ways and shaped our politics: [Obama was extremely careful about appearing to beholden to the Black community and their political interests and often repeated a number of negative racial stereotypes](https://press.uchicago.edu/ucp/books/book/chicago/R/bo50271574.html), Whites' attitudes about various policies were also very rooted in perceptions about who was promoting the policy (one of my papers yet to be published), and a variety of other outcomes I could list out. 
+
+This leaves us with two competing perspectives: Whites are accepting and identifying with other Whites in politics because of concerns about their finances or they are doing so because they are concerned with their ability to influence American politics as we are seeing more diversity at higher levels of political office. There is existing research that supports both accounts.
+
+I won't get into the weeds about the methods, but these two perspectives and evidence supporting these two perspectives are hard to compare without getting creative about the statistical approach you use to directly pit these two perspectives against each other. That is what I am doing here in the paper.
+
+From these efforts, what I end up finding is that the argument about economic concerns driving this White group-based behavior is relatively weak when we look at large national surveys and consider different economic and political contexts. 
+:::
+:::
+
+<p>Roberts, Damon C. "Giving the leaves back to the forest: A primer on the use of random forest models as chained equations for imputing missing data." <i>Working Paper</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size= 2x title="Code" >}}](https://github.com/DamonCharlesRoberts/mice-imputation-psci)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+Though missing data is pervasive in political science datasets, attempting to regain information from it remains a relatively uncommon step in data pre-processing. While there are many options out there, the benefits and drawbacks each provide can make it difficult to discern which to use. This note has two goals. First, to provide a review of the consequences of missing data and to provide a reference for common options used by political scientists. The second goal of the note is to advocate for the uptake of using random forest models in the Multiple Imputation with Chained Equations framework. In doing so, it lays out the intuition of these models and how that fits with the task of imputing missing data while also comparing the use of this implementation to other common approaches used in political science with simulated data that are representative of political science data.
+
+## Less technical summary & other fun details
+
+The goal of this paper is to advance two arguments: that we need to be deeply concerned and try to do something to deal with our missing data before we fit statistical models and that to use a special type of machine learning model called a random forest model is a great option to do that.
+
+I started working on this paper as I had been learning both about missing data and its causes of bias for any calculations we make from a statistical model while simultaneously diving into different types of machine learning models. One thing that seems to make intuitive sense is that these random forest models are optimized to take data that we already have, find patterns between different variables, and then use those patterns to then extrapolate and make very informed guesses about data that we do not have stored yet.
+
+Thankfully, there has been work in some fields to integrate this class of machine learning models into some fancy procedures designed for missing data. So, the goal of this paper is to try to convince political scientists to use it. I think the reluctance is that these sorts of procedures seem quite complex and abstract to most and so they would rather not use something that seems like a bit of a blackbox. While lots of people are squeamish about the idea of adding values into their dataset that did not come from the source, I argue that there is an extensive amount of research that demonstrates to do nothing about those missing values is even worse than what most of our procedures to fill in those values do. It then provides an introduction into how these machine learning procedures can be introduced while keep an eye toward how it is a very logical extension of how to "fix" our missing data problems. The hope is that it will assuage people's concerns about the use of the procedure. 
+:::
+:::
+
+<p>Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. "Not absent, just different: The implications of gender on white's racial attitudes." <i>Working Paper</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/wid-and-gender/)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Are common measures of racial animus and racial identity suﬀicient to detect gendered differences? The existing literature on gendered political socialization suggests that a number of predictors for racial attitudes, and the way they are expressed, vary depending on if one identifies as a man or a woman. As these precursors to racial attitudes vary on gender, we should expect that the ways in which men and women express their racial attitudes may vary as well. Without accounting for this variation in our measures of in-and-out-group racial attitudes, we are likely missing important information about how racial attitudes vary between self-identifying men and women. In this project, we argue that current conceptualizations and measures of racial animus and racial identity are strongly correlated with common outcomes to gendered differences in political socialization. Further, we suspect that particular items in these measures vary on gender. We warn that this may lead to a misunderstanding of a gender gap in racial attitudes when we measure and conceptualize those racial attitudes in one form and not the other. We first present data from the American National Election Study that demonstrates some correlation between gender and one’s score on white political identity. Then, we present a pre-analysis plan for an original survey to capture each item response to predict the gender of the respondent.
+
+## Less technical summary & other fun details
+
+I wanted to include a paper that is in its very early stages. This is that paper. When talking with Komal about my paper on disentangling the sources of White identity, Komal brought up an interesting idea -- well, what do you think about differences in gender? Do you think that men and women would be different in their expression of White identity?
+
+We pitched the idea to others with a working group of folks in my department and Courtney had some really cool perspectives as her dissertation was looking at Whites' willingness to extend civil liberties to non-Whites.
+
+We think that this project will be a handful of papers. The overall idea that we are pitching is that we think White identity and any differences for men and women are not due to women being less motivated by race then men in politics. Rather, we suspect that differences in how men and women are socialized to engage with politics and in society in general are likely making it appear as though there is a gender gap in racial attitudes among White men and women.
+
+Putting this in a historical perspective, White women had a very different set of expectations than White men about how to not only engage in politics but in their role of enforcing strict segregation. During much of the history of the United States, relationships between Blacks and Whites have been met with outright hostility and has had many Black Americans killed. These reactions to those relationships have been very different for White men and women, however. There are many famous examples of White men impregnating Black women with little concern. However, White women have been expected to protect the White race. These white supremacist attitudes are not old and gone, we still see these views about the "replacement of the White race" on primetime shows on Fox News. We suspect that these differences in expectations about how men and women have experience with race in America leads to differences in the expression of it -- not differences in the levels of expression.
+:::
+:::
 
 ## Book projects
 
-<p>
-Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>In progress.</i>
-<br>
-    <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/book_project/blob/main/_book/dcr_book_project.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/book_project)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://ispp2023.presentations.damoncroberts.com/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)
-</p>
+<p>Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>In progress.</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/book_project/blob/main/_book/dcr_book_project.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/book_project)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://ispp2023.presentations.damoncroberts.com/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)</p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Synopsis
+
+While there is descriptive evidence suggesting that people associate Republicans with the color red and Democrats with the color blue in the United States, we have yet to provide a deep exploration of the consequences of these associations. Building upon theories about information processing in neuroscience, psychology, and political science, the project argues that color is a source of information that has consequences on many important political outcomes such as candidate evaluation and voting, deliberation, persuasion, and it even motivates non-political behavior. The book presents a theory arguing that as color is among one of the first forms of information that we process for anything that we interact with, we are likely processing visual information in political contexts before we even process more traditional forms of information -- such as one's position on taxes. This theory suggests that as a result, it activates "snap-judgments" and generates impressions about political objects. The downstream consequences of these snap-judgments is that we often form attitudes that are hard to change before we have even been confronted with information about one's policy and issue positions. The implications of such a process explains how the use of the colors red and blue on political yard signs can be effective at attracting votes as citizens make presumptions about the partisan affiliation of a candidate on just that information alone. It additionally explains the potency of things like the red "Make America Great Again Hat" and hanging a Rainbow Flag on citizens' tendency to avoid conversations with those of other political persuasions and to live in neighborhoods with little variation in partisan affiliation among its residents. It also presents evidence explaining the motivation for increased consistency in the use of the color red and the color blue by politicians, candidates, and the parties in their official branding. 
+
+## Less technical summary & other fun details
+
+The book project is an idea that I am extremely jazzed about. It is the start of a much richer research agenda that I want to pursue. Most of my work has been centered on looking at the types of information that can be conveyed through social groups (partisanship, race, gender, age) and the implications for that information on attitude expression and behavioral outcomes. This book fits in line with that approach. The book advances, however, an argument that visual information is a rich but severely understudied type of political information.
+
+The book is limited to examining the colors red and blue. It might seem obvious that Republicans are associated with red and Democrats are associated with the color blue. We have a lot of descriptive and anecdotal evidence of that. However, there is yet to be a real investigation as to ***how consequential*** that association is. The book argues that it is ***very*** consequential! Not just for voting but it can also explain whether we have a conversation with someone about politics and whether we can be persuaded in that conversation or not, as well as explain interesting but depressing findings that we are literally living in different neighborhoods as those with different political viewpoints as us. 
+
+The goal is to expand upon this book with a cool nerdy neuroscience and politics lab. I would love to work with a team of folks who can come from a variety of interdisciplinary perspectives to examine other types of visual information beyond just the colors red and blue. The hope is to tackle things like symbols in politics, other colors, and to expand the outcomes I analyze in the book to things like motivating one to take particular stances on policy issues.
+:::
+:::
+
+<p>Roberts, Damon C. "A Desk Reference for Managing and Pre-processing Political Data." <i>In progress.</i> <br> <i style="padding-left:1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/data-mgmt-book/blob/main/_book/A-desk-reference-for-political-data-preprocessing-and-management.pdf)</i><i style="padding-left:1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/data-mgmt-book/tree/main)</i></p>
+
+::: {.callout-note appearance="minimal" collapse="true"}
+# Details about the project
+
+::: panel-tabset
+## Abstract
+
+Loading, accessing, cleaning, imputing, and selecting data comprise a significant amount of time for most political scientists engaged in quantitative research. Despite this, many of our syllabi for undergraduate and graduate level courses on quantitative research methods do not include sections on how to do these tasks. Additionally, many of our choices in the tools that we teach students to use for quantitative analysis are chosen based on how popular they have become for fitting statistical models. While many of these tools have a robust set of libraries to complete these data management and pre-processing tasks, they are not necessarily the best tools for the job. This book argues that we need to be using and teaching others to use tools expressly designed for data management and pre-processing. Beyond the choice in tools, the book proposes a workflow that is designed to enable scholars to adopt a principled approach to data management and pre-processing as opposed to the common "whatever works" approach. The consequences of not choosing tools designed to complete these tasks as well as using an ad-hoc data management and pre-processing workflow means that our code is inefficient, less readable, and less reproducible. The book additionally acts as a reference guide for those who would like to see how to complete these tasks in a variety of languages. The hope is that it should be a useful translator for those who may be working on research teams with diverse preferences in tools.
+
+## Less technical summary & other fun details
+
+There have been a number of *extremely* high profile academics who have had the credibility of results for their studies put into question. The generous interpretation is that they (or a Research Assistant) have made a mistake at some point of the process of downloading, examining, and cleaning the data. The less generous interpretation is that they engaged in fraud.
+
+Regardless of whether or not these changes to data that produce exciting and easy-to-publish results, much of this is hard to prove. There are wonderful academics out there who spend an inordinate amount of time trying to identify whether data were fabricated or some serious mistakes were made in the handling of data. The peer review process is often heavily focused toward questioning a researcher's choices in statistical analyses but not necessarily in the steps beforehand, even though how you manage the data before you run a statistical analysis is extremely consequential. In these efforts to try to detect the mishandling of data, most of the time, it is an attempt to try to engage in forensics to determine whether seemingly misplaced data are actually misplaced and if it was done so intentionally.
+
+Unfortunately for those engaging in these efforts, there is no one standard practice to manage data. Some download a Microsoft Excel file and start manually recoding values, other well-meaning researchers write functions in the Excel file trying to leave some documentation and breadcrumbs of what they did, and others refuse to open the Excel file and write code in their preferred statistical software to manage the data. The ad-hoc nature of this makes it extremely easy and dangerous for the mishandling of data to occur. It also makes it extremely hard to detect as the degree to which individuals document what they did to their data varies wildly and the tools that they used to do so also vary wildly. 
+
+The whole point of this book is to encourage people to stop. The book advances an argument that not only is an ad-hoc approach to data management and pre-processing extremely dangerous and makes it easy for fraud to occur, but that we need to be using tools that are expressly designed to do this so that we know that if there is an error, where it came from -- from the software or from the user. It takes relatively common statistical languages in political and the social sciences and compares these tools to a new implementation for SQL that allow for us to use databases stored locally on our computers called `DuckDB`. The tool not only encourages a principled approach to data management and pre-processing through its use of a database, but it is highly efficient and can manage datasets larger than our memory on our computers, is extremely readable due to its use of the SQL database language, and is reproducible as databases do not allow for manually editing data. As I note in the book, these features of a database also increase our compliance with security standards set by Institutional Review Boards.
+
+For those that are on teams that manage files differently or uses a variety of tools to manage it, the book can also act as a reference manual to help translate between these languages so that one can easily migrate their team to a more principled workflow.
+:::
+:::
+
 ## Public Scholarship
 
 ### Articles
 
-<p>
-    Roberts, Damon C. and Jennifer Wolak. 2022. "Will Biden's age keep him from being re-elected?" <i>Washington Post</i>.
-    <br>
-    <i style="padding-left: 1em">[{{< fa newspaper size= 2x title="Code" >}}](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/)</i>
-</p>
+<p>Roberts, Damon C. and Jennifer Wolak. 2022. "Will Biden's age keep him from being re-elected?" <i>Washington Post</i>. <br> <i style="padding-left: 1em">[{{< fa newspaper size= 2x title="Code" >}}](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/)</i></p>
 
 ### Interviews
 
-<p>
-    <i>Colorado Public Radio</i>. On: The effects of candidate age on electability. August 31, 2022.
-</p>
+<p><i>Colorado Public Radio</i>. On: The effects of candidate age on electability. August 31, 2022.</p>
 
-<p>
-    <i>New York Times</i>  ["How much do voters really care about Biden's age?"](https://t.co/kbAAvAjwUw).
-</p>
+<p><i>New York Times</i> ["How much do voters really care about Biden's age?"](https://t.co/kbAAvAjwUw).</p>
 
-<p>
-    <i>University of Colorado Boulder press</i> On: Joe Biden's re-election announcement and his age. May 2023.
-</p>
+<p><i>University of Colorado Boulder press</i> On: Joe Biden's re-election announcement and his age. May 2023.</p>

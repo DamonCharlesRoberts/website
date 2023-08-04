@@ -21,16 +21,18 @@ Lab Fellow, American Politics Research Lab at the University of Colorado Boulder
 
 # EDUCATION
 
-Ph.D. Candidate, Department of Political Science,
-University of Colorado Boulder, August 2019 - Expected, Spring 2024 \
-Dissertation: "The color and shape of politics: How citizens process politically-relevant visual information and its consequences." \
+Ph.D. Candidate, Department of Political Science, \newline University of Colorado Boulder, \newline
+Defense expected: Spring 2024 \newline
+Dissertation: "The Color and Shape of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences." \newline
 Committee: Anand E. Sokhey, Jennifer Fitzgerald, Alexandra Siegel, Amanda Frieson, Efrén O. Pérez
 
-Master of Arts, Department of Political Science,
-University of Colorado Boulder, May 2021
+Master of Arts, Department of Political Science, \newline
+University of Colorado Boulder, \newline
+May 2021
 
 Bachelor of Science, Department of Political Science,
-Boise State University, Boise, ID, May 2019
+Boise State University, Boise, ID, \newline
+May 2019
 
 
 # PUBLICATIONS
@@ -56,7 +58,7 @@ Boise State University, Boise, ID, May 2019
 ## Under Review
 
 * Roberts, Damon C., Andrew M. Engelhardt, and Stephen M. Utych. "Racial Identity and Attitudes Towards Social Programs."
-* Roberts, Damon C. ["Giving the Leaves Back to the Tree: Using Random Forest Models in the Multiple Imputation with Chained Equations Framework for Missing Data."](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)
+* Roberts, Damon C. ["Giving the Leaves Back to the Tree: Using Random Forest Models in the Multiple Imputation with Chained Equations Framework for Missing Data."](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/out/rf_imputation_su2023.pdf)
 * Roberts, Damon C. ["Economic Concerns Appear to be Weak Predictors of White Political Identity."](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)
 
 ## Working Papers
@@ -71,6 +73,7 @@ Boise State University, Boise, ID, May 2019
 * "The Shape and Color of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences."
 * "A Desk Reference for Managing and Pre-processing Political Data."
 
+\vspace{2em}
 # HONORS, GRANTS, \& AWARDS
 
 * 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science ($2,100)
@@ -83,6 +86,7 @@ Boise State University, Boise, ID, May 2019
 * 2019. Boise State University - School of Public Service Small Research Grant (< $1,000)
 * 2019. Boise State University - School of Public Service Student Travel Grant (< $1,000)
 
+\vspace{2em}
 # SOFTWARE
 
 1. ScrapeCongress - An R package to scrape the tweets of U.S. Congressmembers. url: \href{https://www.github.com/damoncharlesroberts/ScrapeCongress}{Github}
@@ -101,6 +105,7 @@ JavaScript, AWS, JAGS, MPLUS
 
 Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Surveys, GLM, MLM, NLP, SEM, Machine Learning, Formal Modeling
 
+\vspace{2em}
 # INTERVIEWS
 
 * *National Public Radio*. ["After McConnell's and Feinstein's episodes, should age limits be on the table?"](https://www.npr.org/2023/07/31/1190675707/mcconnell-feinstein-medical-episodes-maximum-age-limits)
@@ -182,8 +187,7 @@ Research \& Politics, Electoral Studies
 * 2020--Present. Graduate Student Advisor of The Political Science Club (University of Colorado Boulder)
 * 2021--2022. MOPS (Mentors of Political Science) Coordinator (Department of Political Science, University of Colorado Boulder)
 
-<br>
-
+\vspace{2em}
 # PROFESSIONAL AFFILIATIONS
 * 2022--Present. Member. International Society for Political Psychology
 * 2022--Present. Member. Southern Political Science Association
@@ -194,7 +198,7 @@ Research \& Politics, Electoral Studies
 # REFERENCES
 
 Anand E. Sokhey \hspace{3.7cm} Jennifer Fitzgerald \newline
-Associate Professor of Political Science \hspace{0.35cm} Professor of Political Science \newline
+Professor of Political Science \hspace{1.8cm} Professor of Political Science \newline
 University of Colorado Boulder \hspace{1.5cm} University of Colorado Boulder \newline
 \href{mailto:anand.sokhey@colorado.edu}{anand.sokhey@colorado.edu} \hspace{1.8cm} \href{mailto:jennifer.fitzgerald@colorado.edu}{jennifer.fitzgerald@colorado.edu}
 
