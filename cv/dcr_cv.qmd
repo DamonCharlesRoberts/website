@@ -15,14 +15,14 @@ format:
 
 ---
 
-# Appointments
+# APPOINTMENTS
 
-Lab Fellow, American Politics Research Lab
+Lab Fellow, American Politics Research Lab at the University of Colorado Boulder
 
-# Education
+# EDUCATION
 
 Ph.D. Candidate, Department of Political Science,
-University of Colorado Boulder, August 2019 - Present \
+University of Colorado Boulder, August 2019 - Expected, Spring 2024 \
 Dissertation: "The color and shape of politics: How citizens process politically-relevant visual information and its consequences." \
 Committee: Anand E. Sokhey, Jennifer Fitzgerald, Alexandra Siegel, Amanda Frieson, Efrén O. Pérez
 
@@ -33,11 +33,11 @@ Bachelor of Science, Department of Political Science,
 Boise State University, Boise, ID, May 2019
 
 
-# Publications
+# PUBLICATIONS
 
-## Peer reviewed
+## Peer Reviewed
 \begin{etaremune}[start=5]
-  \item Roberts, Damon C. and Jennifer Wolak. 2022. ``\href{https://link.springer.com/article/10.1007/s11109-022-09802-5}{Do Voters Care about the Age of their Elected Representatives?}" \emph{Political Behavior}.\footnote{Coverage of paper in: *The Economist*, *The New York Times*, University of Colorado News} DOI: 10.1007/s11109-022-09802-5
+  \item Roberts, Damon C. and Jennifer Wolak. 2022. ``\href{https://link.springer.com/article/10.1007/s11109-022-09802-5}{Do Voters Care about the Age of their Elected Representatives?}" \emph{Political Behavior}.\footnote{Coverage of paper in: \emph{The Economist}, \emph{The New York Times}, and \emph{National Public Radio}} DOI: 10.1007/s11109-022-09802-5
   \item Fahey, James J. Damon C. Roberts, and Stephen M. Utych. 2022. ``\href{https://journals.sagepub.com/doi/pdf/10.1177/1532673X221087601}{Principled or Partisan? The Effect of Cancel Culture Framings on Support for Free Speech.}" \emph{American Politics Research}. DOI: 10.1177/1532673X221087601
   \item Roberts, Damon C. and Stephen M. Utych. 2021. ``\href{https://journals.sagepub.com/doi/abs/10.1177/1532673X211064884?journalCode=aprb}{A Delicate Hand or Two Fisted Affression? How Gendered Language Influences Candidate Perceptions.}" \emph{American Politics Research}. DOI: 10.1177/1532673X211064884?journalCode=aprb
   \item Roberts, Damon C. and Stephen M. Utych. 2021. ``\href{https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13101}{Polarized Social Distancing: Residents of Republican-Majority Counties Spend More Time Away from Home During the COVID-19 Crisis.}" \emph{Social Science Quarterly}. DOI: 10.1111/ssqu.13101
@@ -46,111 +46,131 @@ Boise State University, Boise, ID, May 2019
 
 ## Public Scholarship
 
-* Roberts, Damon C. and Jennifer Wolak. 2022. ["Will Biden's age keep him from being re-elected?"](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/) *Washington Post*
+* Roberts, Damon C. and Jennifer Wolak. 2022. ["Will Biden's Age Keep Him From Being Re-elected?"](https://www.washingtonpost.com/politics/2022/07/21/biden-trump-president-age-2024-election/) *Washington Post*
 
-### Select blog posts
+### Select Blog Posts
 
-* Roberts, Damon C. 2023. ["Why should academics care about data engineering principles?"](https://damoncroberts.com/blog/posts/data_engineering/)
-* Roberts, Damon C. 2022. ["Reading polls: the basics"](https://damoncroberts.com/blog/posts/reading_polls/reading_polls_index.html)
+* Roberts, Damon C. 2023. ["Why Should Academics Care About Data Engineering Principles?"](https://damoncroberts.com/blog/posts/data_engineering/)
+* Roberts, Damon C. 2022. ["Reading Polls: The Basics"](https://damoncroberts.com/blog/posts/reading_polls/reading_polls_index.html)
 
 ## Under Review
 
 * Roberts, Damon C., Andrew M. Engelhardt, and Stephen M. Utych. "Racial Identity and Attitudes Towards Social Programs."
-* Roberts, Damon C. ["Giving the leaves back to the tree: Using random forest models in  the multiple imputation with chained equations framework for missing data."](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)
-* Roberts, Damon C. ["Economic concerns appear to be weak predictors of white political identity."](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)
+* Roberts, Damon C. ["Giving the Leaves Back to the Tree: Using Random Forest Models in the Multiple Imputation with Chained Equations Framework for Missing Data."](https://github.com/DamonCharlesRoberts/mice-imputation-psci/blob/main/drafts/dcr_rf_imputation_draft_spring_2023.pdf)
+* Roberts, Damon C. ["Economic Concerns Appear to be Weak Predictors of White Political Identity."](https://github.com/DamonCharlesRoberts/white_identity_sources/blob/main/out/manuscript.pdf)
 
-## Working papers
+## Working Papers
 * "Social Communication, Social Expertise, and the Foundations of Political Involvement." (with Scott D. McClurg and Anand E. Sokhey)
 * "The Levels of Conceptualization Framework and Political Discussion." (with Jennifer Lin, Todd Makse, and Anand E. Sokhey)
-* ["Not absent, just different: The implications of gender on white’s racial attitudes."](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf) (with Courtney J. Nava and Komal Preet Kaur)
+* ["Not Absent, Just Different: The Implications of Gender on White’s Racial Attitudes."](https://github.com/DamonCharlesRoberts/wid-and-gender/blob/main/drafts/mpsa/KKDCRCJNGenderAndMeasuresOfRacialAttitudesMPSA2023.pdf) (with Courtney J. Nava and Komal Preet Kaur)
 * "Don't Interrupt Me: The Interruption of Female and Nominees of Color in Federal Judiciary Confirmation Hearings." (with Tyler P. Garrett)
-* "Changing norms and polarization: How elites advance mass polarization."
-* "Moneyballing with partisanship: Political forecasting and models of vote choice."
+* "Changing Norms and Polarization: How Elites Advance Mass Polarization."
+* "Moneyballing with Partisanship: Political Forecasting and Models of Vote Choice."
 
-## Book projects (in progress)
-* "The shape and color of politics: How citizens process politically-relevant visual information and its consequences."
-* "A desk reference of political data preprocessing and management."
+## Book Projects (In Progress)
+* "The Shape and Color of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences."
+* "A Desk Reference for Managing and Pre-processing Political Data."
 
-# Honors, Grants, Awards
+# HONORS, GRANTS, \& AWARDS
 
-* 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science
-* 2022. Teamwork Grant - University of Colorado Boulder, Department of Political Science
-* 2021. Travel Grant - Elections, Voting, Public Opinion, and Behavior Section - American Political Science Association
-* 2021. Time-Sharing Experiments for the Social Sciences Short Studies Program Grant - TESS Funded by the National Science Foundation
-* 2021. Small Research Grant - University of Colorado Boulder, Department of Political Science
-* 2020. ICPSR Summer Short Course Scholarship - University of Colorado, Department of Political Science
-* 2020. Summer Co-Authorship Grant - University of Colorado Boulder, Political Science Graduate Program
-* 2019. Boise State University - School of Public Service Small Research Grant
-* 2019. Boise State University - School of Public Service Student Travel Grant
+* 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science ($2,100)
+* 2022. Teamwork Grant - University of Colorado Boulder, Department of Political Science (< $1,000)
+* 2021. Travel Grant - Elections, Voting, Public Opinion, and Behavior Section - American Political Science Association (< $1,000)
+* 2021. Time-Sharing Experiments for the Social Sciences Short Studies Program Grant - TESS Funded by the National Science Foundation (> $1,000)
+* 2021. Small Research Grant - University of Colorado Boulder, Department of Political Science (< $1,000)
+* 2020. ICPSR Summer Short Course Scholarship - University of Colorado, Department of Political Science (> $1,000)
+* 2020. Summer Co-Authorship Grant - University of Colorado Boulder, Political Science Graduate Program (< $1,000)
+* 2019. Boise State University - School of Public Service Small Research Grant (< $1,000)
+* 2019. Boise State University - School of Public Service Student Travel Grant (< $1,000)
 
-# Software
+# SOFTWARE
 
 1. ScrapeCongress - An R package to scrape the tweets of U.S. Congressmembers. url: \href{https://www.github.com/damoncharlesroberts/ScrapeCongress}{Github}
 2. genCounter - A python webapp to use the gendered language dictionary. url: \href{https://www.damoncroberts.pythonanywhere.com}{gencounter website}
 3. fancy-doc - A Quarto extension to produce PDF's with \LaTeX's `fancyhdr` package. url: \href{https://www.github.com/damoncharlesroberts/fancy-doc}{Github}
 
-# Interviews
+# TECHNICAL SKILLS
+
+Python, R, Quarto, \LaTeX, Apache, DuckDB, SQL, Julia, Qualtrics, HTML, CSS, SPSS
+
+## Working Knowledge
+
+JavaScript, AWS, JAGS, MPLUS
+
+## Methods Training
+
+Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Surveys, GLM, MLM, NLP, SEM, Machine Learning, Formal Modeling
+
+# INTERVIEWS
 
 * *National Public Radio*. ["After McConnell's and Feinstein's episodes, should age limits be on the table?"](https://www.npr.org/2023/07/31/1190675707/mcconnell-feinstein-medical-episodes-maximum-age-limits)
 * *New York Times*. ["How much do voters really care about Biden's age?"](https://t.co/kbAAvAjwUw).
 * *Colorado Public Radio*. On: The effects of candidate age on electability. August 31, 2022.
 * *University of Colorado Boulder Associated Press*. On: Joe Biden's re-election announcement and his age. May 2023.
 
-# Invited Talks and Guest Lectures
+\vspace{2em}
 
+# INVITED TALKS AND GUEST LECTURES
+
+* Fall 2023 (scheduled) - "The Shape and Color of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences." Guest Lecture at the University of Texas El Paso for Graduate Seminar on Quantitative Research Methodology.
 * Spring 2023 - ["An introduction to Experiments in political science."](https://experiments.workshops.damoncroberts.com/#/title-slide) Guest Lecture at the University of Colorado Boulder for upper-level undergraduate course on Advanced Quantitative Research Methods.
 * Spring 2022 - “An Introduction to Quantifying Text in Political Communication”. Guest Lecture at Colorado State University for Graduate Seminar in Political Communication.
 * Spring 2022 - Life as a Graduate Student. Guest Lecture at University of Kentucky for PS 492
 * Spring 2021 - “The media’s role in the use of gender and racial stereotypes in politics”. Guest Lecture at Colorado State University for undergraduate course on Media and Politics.
 
-# Conference presentations
+\vspace{2em}
 
-* Roberts, Damon C. 2023. "How does color influence our political conversations?" [Presented at the Annual Meeting of the International Society of Political Psychology, Montreal.](https://ispp2023.presentations.damoncroberts.com/#/title-slide)
-* Roberts, Damon C. 2023. "How does color influence our political conversations?" [Presented at the Annual Meeting of the Frontrange Political Science Association, Fort Collins.](https://frapsa2023.presentations.damoncroberts.com/#/title-slide)
-* Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. 2023. "Not absent, just different: The implications of gender on white’s racial attitudes." [Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.](https://mpsa2023.presentations.damoncroberts.com/#/title-slide)
-* Roberts, Damon C. 2022. “Changing norms and polarization: How elites advance mass polarization.” Presented at Junior Americanist Workshop Series (JAWS).
-* Lin, Jennifer, Todd Makse, Damon C. Roberts, and Anand E. Sokhey. 2022. “The Levels of Conceptualization Framework and Political Discussion.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
-* Garrett, Tyler P. and Damon C. Roberts. 2022. “Don’t Interrupt Me: THe Interruption of Female and Nominees of Color in Federal Judiciary Confirmation Hearings.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
-* McClurg, Scott, Damon C. Roberts, and Anand E. Sokhey. 2022. “The Relationship between Social Expertise and Internal Political Efficacy.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
-* Roberts, Damon C. 2022. “Giving leaves back to the tree: A primer on the use of random forest models in the multiple imputation with chained equations for handling missing political data.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
-* Roberts, Damon C. and Jennifer Wolak 2021. “ Do Voters Care about the Age of their Elected Representatives?” Presented at the Annual Meeting of the American Political Science Association. Seattle, WA.
-* Roberts, Damon C. 2021. “The Origins of White Political Identity.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
-* Lin, Jennifer, Todd Makse, Damon C. Roberts, and Anand E. Sokhey. 2021. “The Levels of Conceptualization Framework and Political Discussion.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
-* Roberts, Damon. C. Stephen M. Utych, and John Griffin. 2021. “Proximity, Identity, and Viability: How Minority Voters Decide.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
-* Roberts, Damon C. Drew M. Engelhardt, and Stephen M. Utych. 2021. “The Policy Preferences of White Identifiers.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
-* Roberts, Damon C. and Stephen M. Utych. 2020. “An Expanded Gendered Language Dictionary for Political Analysis.” Presented at the Annual Meeting of the American Political Science Association, remote.
-* Utych, Stephen M. and Damon C. Roberts. 2019. “Gendered Language and Conservatism in American Politics.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago, IL.
-* Roberts, Damon C. 2018. “Environment or Jobs? Why Do Americans Support One Over the Other?” Pi Sigma Alpha 2018 National Student Conference, Washington, D.C.
+# CONFERENCE PRESENTATIONS
 
-# Research and teaching appointments
+\begin{etaremune}[start = 16]
+  \item Roberts, Damon C. 2023. ``How does color influence our political conversations?" \href{https://ispp2023.presentations.damoncroberts.com/#/title-slide}{Presented at the Annual Meeting of the International Society of Political Psychology, Montreal.}
+  \item Roberts, Damon C. 2023. ``How does color influence our political conversations?" \href{https://frapsa2023.presentations.damoncroberts.com/#/title-slide}{Presented at the Annual Meeting of the Frontrange Political Science Association, Fort Collins.}
+  \item Roberts, Damon C., Courtney J. Nava, and Komal Preet Kaur. 2023. ``Not absent, just different: The implications of gender on white’s racial attitudes." \href{https://mpsa2023.presentations.damoncroberts.com/#/title-slide}{Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.}
+  \item Roberts, Damon C. 2022. ``Changing norms and polarization: How elites advance mass polarization.” Presented at Junior Americanist Workshop Series (JAWS).
+  \item Lin, Jennifer, Todd Makse, Damon C. Roberts, and Anand E. Sokhey. 2022. ``The Levels of Conceptualization Framework and Political Discussion.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
+  \item Garrett, Tyler P. and Damon C. Roberts. 2022. ``Don’t Interrupt Me: THe Interruption of Female and Nominees of Color in Federal Judiciary Confirmation Hearings.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
+  \item McClurg, Scott, Damon C. Roberts, and Anand E. Sokhey. 2022. ``The Relationship between Social Expertise and Internal Political Efficacy.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
+  \item Roberts, Damon C. 2022. ``Giving leaves back to the tree: A primer on the use of random forest models in the multiple imputation with chained equations for handling missing political data.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago.
+  \item Roberts, Damon C. and Jennifer Wolak 2021. ``Do Voters Care about the Age of their Elected Representatives?” Presented at the Annual Meeting of the American Political Science Association. Seattle, WA.
+  \item Roberts, Damon C. 2021. ``The Origins of White Political Identity.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
+  \item Lin, Jennifer, Todd Makse, Damon C. Roberts, and Anand E. Sokhey. 2021. ``The Levels of Conceptualization Framework and Political Discussion.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
+  \item Roberts, Damon. C. Stephen M. Utych, and John Griffin. 2021. ``Proximity, Identity, and Viability: How Minority Voters Decide.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
+  \item Roberts, Damon C. Drew M. Engelhardt, and Stephen M. Utych. 2021. ``The Policy Preferences of White Identifiers.” Presented at the Annual Meeting of the Midwestern Political Science Association, remote.
+  \item Roberts, Damon C. and Stephen M. Utych. 2020. ``An Expanded Gendered Language Dictionary for Political Analysis.” Presented at the Annual Meeting of the American Political Science Association, remote.
+  \item Utych, Stephen M. and Damon C. Roberts. 2019. ``Gendered Language and Conservatism in American Politics.” Presented at the Annual Meeting of the Midwestern Political Science Association, Chicago, IL.
+  \item Roberts, Damon C. 2018. ``Environment or Jobs? Why Do Americans Support One Over the Other?” Pi Sigma Alpha 2018 National Student Conference, Washington, D.C.
+\end{etaremune}
+
+# RESEARCH AND TEACHING APPOINTMENTS
+
+## Instructor of Record
+
+* [PSCI 1101 - Introduction to American Politics - Fall 2023](https://www.dropbox.com/scl/fi/hd58bldwzzqa3vwhrym29/fa_2023_psci1101_syllabus.pdf?rlkey=00vi6gh7ky7rlczkscafhwdhz&dl=0)
+* [PSCI 3075 - Applied Political Science Research - Fall 2022](https://www.dropbox.com/s/d9b3t7a5gd7xng2/dcr_psci_3075_fall_2022_syllabus.pdf?dl=0)
+* [PSCI 2075 - Quantitative Research Methods - Summer 2022](https://www.dropbox.com/s/xq5r22vmazioxmi/su22_psci_2075_syllabus.pdf?dl=0)
 
 ## Research Assistant
 
-* Methods Lab Coordinator (Department wide support for methods and coding challenges for Undergraduates) - Fall, 2021
-* The LeRoy Keller Center for the Study of the First Amendment - Spring, 2021
-
-## Instructor of record
-
-* [PSCI 3075 - Applied Political Science Research - Fall, 2022](https://www.dropbox.com/s/d9b3t7a5gd7xng2/dcr_psci_3075_fall_2022_syllabus.pdf?dl=0)
-* [PSCI 2075 - Quantitative Research Methods - Summer, 2022](https://www.dropbox.com/s/xq5r22vmazioxmi/su22_psci_2075_syllabus.pdf?dl=0)
+* Methods Lab Coordinator (Department-wide support for methods and coding challenges for Undergraduates) - Fall 2021, Fall 2023
+* The LeRoy Keller Center for the Study of the First Amendment - Spring 2021
 
 ## Grading assistant
 
-* PSCI 3225 - Strategy and Politics (Game theory) - Spring, 2022
-* PSCI 3201 - U.S. Campaigns and Elections - Fall, 2020
+* PSCI 3225 - Strategy and Politics (Game theory) - Spring 2022
+* PSCI 3201 - U.S. Campaigns and Elections - Fall 2020
 
 ## Teaching Assistant (Two recitation sections)
 
-* PSCI 1101 - Introduction to American Politics - Fall 2019, Spring 2020
+* PSCI 1101 - Introduction to American Politics - Fall 2019 Spring 2020
 * PSCI 2075 - [Quantitative Research Methods - Spring 2023](https://sp23.psci2075.classes.damoncroberts.com/)
 
-# Service
+# SERVICE
 
 ## Referee
 
 Research \& Politics, Electoral Studies
 
-## Discipline Service
+## Discipline \& Community Service
 
 * 2022. Northglenn STEM High School PBL. Theme: Social Movements. Expert Judge.
 * 2021. Northglenn STEM High School PBL. Theme: Congressional District Drawing. Expert Judge.
@@ -162,21 +182,23 @@ Research \& Politics, Electoral Studies
 * 2020--Present. Graduate Student Advisor of The Political Science Club (University of Colorado Boulder)
 * 2021--2022. MOPS (Mentors of Political Science) Coordinator (Department of Political Science, University of Colorado Boulder)
 
-# Professional Affiliations
+<br>
+
+# PROFESSIONAL AFFILIATIONS
 * 2022--Present. Member. International Society for Political Psychology
 * 2022--Present. Member. Southern Political Science Association
 * 2019--Present. Member. American Association for Public Opinion Research
 * 2018--Present. Member. American Political Science Association
 * 2018--Present. Member. Midwestern Political Science Association
 
-# Technical skills
+# REFERENCES
 
-Python, R, Quarto, \LaTeX, Apache, DuckDB, SQL, Julia, Qualtrics, HTML, CSS, SPSS
+Anand E. Sokhey \hspace{3.7cm} Jennifer Fitzgerald \newline
+Associate Professor of Political Science \hspace{0.35cm} Professor of Political Science \newline
+University of Colorado Boulder \hspace{1.5cm} University of Colorado Boulder \newline
+\href{mailto:anand.sokhey@colorado.edu}{anand.sokhey@colorado.edu} \hspace{1.8cm} \href{mailto:jennifer.fitzgerald@colorado.edu}{jennifer.fitzgerald@colorado.edu}
 
-## Working Knowledge
-
-JavaScript, AWS, JAGS, MPLUS
-
-## Methods Training
-
-Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Surveys, GLM, MLM, NLP, SEM, Machine Learning, Formal Modeling
+Alexandra Siegel \newline
+Assistant Professor of Political Science \newline
+University of Colorado Boulder \newline
+\href{mailto:alexandra.siegel@colorado.edu}{alexandra.siegel[at]colorado.edu}
