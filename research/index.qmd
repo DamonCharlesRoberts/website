@@ -217,7 +217,7 @@ Putting this in a historical perspective, White women had a very different set o
 
 ## Book projects
 
-<p>Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>In progress.</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/book_project/blob/main/_book/dcr_book_project.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/book_project)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://ispp2023.presentations.damoncroberts.com/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)</p>
+<p>Roberts, Damon C. "The shape and color of politics: How citizens process political information and its consequences." <i>In progress.</i> <br> <i style="padding-left: 1em">[{{< fa file-pdf size=2x title="PDF" >}}](https://github.com/DamonCharlesRoberts/book_project/blob/main/_book/dcr_book_project.pdf)</i><i style="padding-left: 1em">[{{< fa code size=2x title="Code" >}}](https://github.com/DamonCharlesRoberts/book_project)</i><i style="padding-left: 1em">[{{< fa person-chalkboard size=2x title="Slidedeck" >}}](https://ispp2023.presentations.damoncroberts.com/)</i><i style="padding-left:1em">[{{< fa lock size=2x title="Pre-registered report" >}}](https://osf.io/e9gk8/?view_only=fb816f5dcae84097b7f87e2adfcc4e87)</i></p>
 
 ::: {.callout-note appearance="minimal" collapse="true"}
 # Details about the project
