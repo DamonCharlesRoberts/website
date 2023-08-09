@@ -1,0 +1,65 @@
+---
+title: "Students: Citing your sources, taking notes, and making your life easier"
+author: "Damon C. Roberts"
+date: today
+categories:
+    - students
+    - teaching
+    - zotero
+draft: false
+engine: rmarkdown
+execute:
+    message: false
+    warning: false
+    echo: false
+---
+
+When you produce information that is shared with others, it would be nice to receive credit for it, right? One of the most obnoxious things someone can do on TikTok is to essentially record themselves doing or saying the exact same thing as you without acknowledging that you were the person that came up with it. In fact, it is so obnoxious that this sort of behavior is codified as being problematic in the law. This sort of behavior can often be determined to be a copyright violation.
+
+This did not start with things like YouTube and other social media. The things we write are considered intellectual property and are protected by copyright laws. If you come up with an idea, write it down, and someone takes that idea and does not acknowledge that you were where they got that idea from, they are making it appear as though they were the ones to come up with that idea; which is just untrue. It is also just a nice thing to be someone who sends their ideas out in the ether and see that someone has not only read it but have cited it!
+
+Since it is so important to acknowledge where we are getting information or ideas, we need to have some standard way in our writing to communicate where we got this information or ideas from. This act of acknowledging where we got this information from (our *source*) is often referred to as *citing* a source. We often have particular norms and rules about what is the appropriate way to cite a source.
+
+I recommend that you read a guide written by [MIT](https://libguides.mit.edu/citing) that outlines what citations are, why we use them, and what sort of things you should cite. You should read this guide before moving on to the rest of this post.
+
+## How to use the APA format
+
+**In this class, we will be using the APA format.** This format was developed by the American Psychology Association (thus the APA abbreviation). This format communicates what things we need to cite, under what conditions, and how those citations should look. It is important to adopt a particular protocol for citing your sources as it ensures that you are following a consistent set of norms about what you are citing, but it also ensures that you are using a consistent format that provides all of the information needed for someone to find the source that you are citing.
+
+There are two things that you have to do with the APA format to properly cite a source. **(1)** You need to include a in-text citation (Purdue Online Writing Lab, n.d.). You'll see an example of an in-line citation in the previous sentence. Here I am indicating that the particular idea that that the APA format requires one to include an in-text citation came from the Purdue Online Writing lab. I am also including a comma and an abbreviation that represents no-date; which means that there is not a particular date provided on the source for when it was written. So the general format for an in-text citation in APA is *(Author name, date). In-text citations do not provide much information, though. It only tells me the author and the date that they wrote something. From the in-text citation, I still have no idea what that author wrote and where I can find it. **(2)** So, the second thing I need to do is provide a bibliography or a reference page at the **end** of my document that provides complete details on the source. 
+
+The general format of the bibliography in the APA format communicates:
+- The name of the author(s)
+- The year it was published
+- The title of the thing they wrote
+- And where they made the thing they wrote publicly accessible
+
+I highly recommend that you checkout [this page created by OWL Purdue on the APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html). You do not have to worry too much about the discussion of how to format a paper in the APA style, I am not asking that you do that. You only need to use the APA format for citing your references. So if you look at the "How to Cite the Purdue OWL in APA" section near the bottom of the page, you should find a general format of how to cite a source in your bibliography. I'll also include a citation that I'd include on a bibliography page for that webpage here for an easy to access example:
+
+Purdue Online Writing Lab. (n.d.) *General Writing FAQs.* Purdue Online Writing Lab. https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html
+
+## How to simplify your citations
+
+While it is useful to learn about a particular citation format, it is a lot of work to collect all of this information on your sources as well as putting it in this format. This becomes more and more burdensome when you are writing a paper for a class a couple of hours before it is due and now you have to figure out the location of all these citations.
+
+My biggest piece of advice for folks is to use a *citation manager*. Citation managers are great in that you can **quickly and easily have a piece of software generate and format the citation for you** -- in whatever citation format you need. This makes it incredibly easy in case you are writing a paper for one class that asks you to cite using the MLA format and another that asks you to use the APA format. All you have to do is tell your citation manager to produce a APA version of the citation or a MLA version of the citation that you can then copy and paste into your document. **The other benefit of a citation manager is that many of them can be an extremely useful way to organize, annotate and to take notes on your readings for your classes!**
+
+I highly recommend using [Zotero](https://www.zotero.org/). Zotero is a project that does not require a subscription to use.^[The only cost associated is if you want it to sync your citations to the cloud and to be able to access citations from multiple devices. Also, it only asks you to pay for this syncing capability when you use more than 200mb of storage. This is actually quite a lot of space. So if you are using one computer and are using this for the readings in your classes, you should be able to use Zotero for free. Even the paid versions are not too expensive.]
+
+There are a couple of key benefits to Zotero:
+1. Easily generate and manage citations for your readings
+2. Can annotate your readings in Zotero
+3. Can attach notes to those readings
+4. Can easily organize readings (place them in different folders -- like a folder for each class and can add tags to further help with that).
+5. An extremely good search functionality that makes it easy to quickly find readings, your annotations and your notes on a reading.
+6. Integration with most word processors like Microsoft Word which means you only ever have to click a couple of buttons to generate in-text citations as well as an entire bibliography page. No writing citations by hand, no copying and pasting citations, and no manually creating and formatting your bibliography page.
+
+So, why are these benefits something you should worry about? To add a reading to Zotero, you can simply drag the document into Zotero. It reads the file and then automatically fills out all of the information that it would need for a citation when you ask it to produce one. It stores the document along with the information needed for a citation together so that you can open the PDF document you dragged in and annotate it like you would in Adobe Acrobat, for example. While you are annotating it, if you add comments, or want to just write notes, you can create notes that are also connected to the file and the citation information. Once you are done annotating and taking notes on your reading, you can add tags to it or can organize it into folders. So, for example if you are taking notes on some assigned readings for a class, you can easily create a folder for the class and then put the citation along with the marked-up document and notes in the folder for the class. You can also use the search functionality that not only looks at the information needed to produce the citation but also the contents of the file, your annotations, and your notes. These features can be extremely useful in situations where you are taking an exam for a class or having to write a research paper and have read something previously that could be useful to use as a source or to find your annotations and notes!
+
+Another benefit is that it isn't just an app for your computer for PDF's, but you can use their browser extension as well to quickly add sources from webpages such as podcasts, news articles, blog posts, etc.!
+
+I have often found myself saying, "I remember this one time in undergrad I read this book about or I read this article on, but I have no idea what the author's name was or the title of it." This has also happened to my friends who aren't graduate students or have PhD's, so it isn't just an *us* problem.
+
+Have I convinced you about how much of a *free* lifehack can be for this class, for the rest of undergrad, and even for your life and career after school? Whether you said yes or no, please watch this video produced by [Steven Bradburn](https://www.youtube.com/watch?v=JG7Uq_JFDzE) that provides a nice demonstration of how it works and how it can make your life easier as an undergraduate student!
+
+If you'd like to talk to me about my expectations for citations in the course, how to use Zotero, or about any other life hacks I may know about, please talk to me in office hours!
