@@ -1,5 +1,5 @@
 *.tex linguist-vendored
-*.qmd linguist-language = R
+*.qmd linguist-language=R
 *.cls linguist-vendored
 */cv/* linguist-vendored
 *.html linguist-vendored
