@@ -29,6 +29,7 @@ I recommend that you read a guide written by [MIT](https://libguides.mit.edu/cit
 There are two things that you have to do with the APA format to properly cite a source. **(1)** You need to include a in-text citation (Purdue Online Writing Lab, n.d.). You'll see an example of an in-line citation in the previous sentence. Here I am indicating that the particular idea that that the APA format requires one to include an in-text citation came from the Purdue Online Writing lab. I am also including a comma and an abbreviation that represents no-date; which means that there is not a particular date provided on the source for when it was written. So the general format for an in-text citation in APA is *(Author name, date). In-text citations do not provide much information, though. It only tells me the author and the date that they wrote something. From the in-text citation, I still have no idea what that author wrote and where I can find it. **(2)** So, the second thing I need to do is provide a bibliography or a reference page at the **end** of my document that provides complete details on the source. 
 
 The general format of the bibliography in the APA format communicates:
+
 - The name of the author(s)
 - The year it was published
 - The title of the thing they wrote
@@ -47,6 +48,7 @@ My biggest piece of advice for folks is to use a *citation manager*. Citation ma
 I highly recommend using [Zotero](https://www.zotero.org/). Zotero is a project that does not require a subscription to use.^[The only cost associated is if you want it to sync your citations to the cloud and to be able to access citations from multiple devices. Also, it only asks you to pay for this syncing capability when you use more than 200mb of storage. This is actually quite a lot of space. So if you are using one computer and are using this for the readings in your classes, you should be able to use Zotero for free. Even the paid versions are not too expensive.]
 
 There are a couple of key benefits to Zotero:
+
 1. Easily generate and manage citations for your readings
 2. Can annotate your readings in Zotero
 3. Can attach notes to those readings
@@ -60,6 +62,6 @@ Another benefit is that it isn't just an app for your computer for PDF's, but yo
 
 I have often found myself saying, "I remember this one time in undergrad I read this book about or I read this article on, but I have no idea what the author's name was or the title of it." This has also happened to my friends who aren't graduate students or have PhD's, so it isn't just an *us* problem.
 
-Have I convinced you about how much of a *free* lifehack can be for this class, for the rest of undergrad, and even for your life and career after school? Whether you said yes or no, please watch this video produced by [Steven Bradburn](https://www.youtube.com/watch?v=JG7Uq_JFDzE) that provides a nice demonstration of how it works and how it can make your life easier as an undergraduate student!
+Have I convinced you about how much of a *free* lifehack Zotero can be for this class, for the rest of undergrad, and even for your life and career after school? Whether you said yes or no, please watch this video produced by [Steven Bradburn](https://www.youtube.com/watch?v=JG7Uq_JFDzE) that provides a nice demonstration of how it works and how it can make your life easier as an undergraduate student!
 
 If you'd like to talk to me about my expectations for citations in the course, how to use Zotero, or about any other life hacks I may know about, please talk to me in office hours!
