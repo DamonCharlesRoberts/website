@@ -11,7 +11,7 @@ I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in t
 <a class="button1" href ="mailto:damon.charles.roberts@gmail.com">
     <i class="fa-solid fa-envelope"></i> Email
 </a>
-<a class="button1" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzRlMG1yZnJtNWhkdjFiam1lOHVuMGgyYTNfMjAyMzAxMTlUMTkwMDAwWiBjX2NjMTYwNWZiMjc0YTU1NjM2YTNiYzY4N2Q2M2ZhMjQ0NzhiZGQwZGZhMGFkMjM1MDFmNjkyM2IxZDQxZDc0MGZAZw&tmsrc=c_cc1605fb274a55636a3bc687d63fa24478bdd0dfa0ad23501f6923b1d41d740f%40group.calendar.google.com&scp=ALL">
+<a class="button1" href="https://calendly.com/damoncharlesroberts/methods-lab-coordinator">
     <i class="fa-solid fa-clock"></i> Office Hours
 </a>
 <a class="button1" href="https://github.com/damoncharlesroberts">
@@ -19,7 +19,4 @@ I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in t
 </a>
 <a class="button1" href="https://www.linkedin.com/in/damon-roberts-00a08a197">
     <i class="fa-brands fa-linkedin"></i> LinkedIn
-</a>
-<a class="button1" href="https://mastodon.social/@damoncroberts">
-    <i class="fa-brands fa-mastodon"></i> Mastodon
 </a>
