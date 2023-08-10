@@ -18,6 +18,8 @@ website:
         text: Research
       - text: "Teaching"
         menu:
+          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/intro_to_american_politics/fa_2023/out/syllabus.pdf
+            text: PSCI 1101--Introduction to American Politics (Instructor of Record), Fall 2023
           - href: https://sp23.psci2075.classes.damoncroberts.com/
             text: PSCI 2075--Quantitative Research Methods (TA), Spring 2023
           - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/research_design_and_causal_inference/dcr_psci_3075_fall_2022_syllabus.pdf
