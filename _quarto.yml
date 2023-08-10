@@ -20,13 +20,13 @@ website:
         menu:
           - href: https://sp23.psci2075.classes.damoncroberts.com/
             text: PSCI 2075--Quantitative Research Methods (TA), Spring 2023
-          - href: https://www.dropbox.com/s/d9b3t7a5gd7xng2/dcr_psci_3075_fall_2022_syllabus.pdf?dl=0
+          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/research_design_and_causal_inference/dcr_psci_3075_fall_2022_syllabus.pdf
             text: PSCI 3075--Applied Research Methods (Instructor of Record), Fall 2022
-          - href: https://www.dropbox.com/s/xq5r22vmazioxmi/su22_psci_2075_syllabus.pdf?dl=0
+          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/introduction_to_quantitative_research/su22_psci_2075_syllabus.pdf
             text: PSCI 2075--Quantitative Research Methods (Instructor of Record), Summer 2022
-          - href: https://www.dropbox.com/s/2jhc8gacfe7cobm/Roberts%20-%20Spring%2C%202020%20PSCI%201101-%20Recitation%20Syllabus.pdf?dl=0
+          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Roberts%20-%20Spring%2C%202020%20PSCI%201101-%20Recitation%20Syllabus.pdf
             text: PSCI 1101--Introduction to American Politics (TA), Spring 2020
-          - href: https://www.dropbox.com/s/hb4zih5ziza51jf/Fall%2C%202019%20PSCI%201101-%20Reciation%20Syllabus%20111.pdf?dl=0
+          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Fall%2C%202019%20PSCI%201101-%20Reciation%20Syllabus%20111.pdf
             text: PSCI 1101--Introduction to American Politics (TA), Fall 2019
       - text: "Software"
         menu:
