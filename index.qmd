@@ -11,7 +11,7 @@ I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in t
 <a class="button1" href ="mailto:damon.charles.roberts@gmail.com">
     <i class="fa-solid fa-envelope"></i> Email
 </a>
-<a class="button1" href="https://calendly.com/damoncharlesroberts/methods-lab-coordinator">
+<a class="button1" href="https://calendly.com/damoncharlesroberts/fa2023-office-hours">
     <i class="fa-solid fa-clock"></i> Office Hours
 </a>
 <a class="button1" href="https://github.com/damoncharlesroberts">
