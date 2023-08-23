@@ -157,7 +157,7 @@ Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Survey
 
 ## Research Assistant
 
-* Methods Lab Coordinator (Department-wide support for methods and coding challenges for Undergraduates) - Fall 2021, Fall 2023
+* Methods Lab Coordinator (Department-wide support for methods and coding challenges for Undergraduates) - [Fall 2021](https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/methods_lab_coordinator/fa2021/dcr_methods_lab_coordinator_student_handout.pdf), [Fall 2023](https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/methods_lab_coordinator/fa2023/out/gp_dcr_mlc_fa2023_handout.pdf)
 * The LeRoy Keller Center for the Study of the First Amendment - Spring 2021
 
 ## Grading assistant
