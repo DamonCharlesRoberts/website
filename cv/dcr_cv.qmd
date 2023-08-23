@@ -206,4 +206,4 @@ University of Colorado Boulder \hspace{1.5cm} University of Colorado Boulder \ne
 Alexandra Siegel \newline
 Assistant Professor of Political Science \newline
 University of Colorado Boulder \newline
-\href{mailto:alexandra.siegel@colorado.edu}{alexandra.siegel[at]colorado.edu}
+\href{mailto:alexandra.siegel@colorado.edu}{alexandra.siegel@colorado.edu}
