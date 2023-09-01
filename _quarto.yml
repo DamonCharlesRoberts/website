@@ -52,8 +52,9 @@ website:
 format:
   html:
     theme:
-      - flatly
-      - assets/custom.scss
+      - assets/custom.css
+      #- darkly
+      #- assets/custom.scss
     code-copy: true
     css: styles.css
     toc: true
