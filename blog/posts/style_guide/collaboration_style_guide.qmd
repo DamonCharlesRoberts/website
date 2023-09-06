@@ -10,6 +10,7 @@ format:
     html:
         embed-resources: true
 link-citations: true
+image: ../../imgs/github.png
 ---
 
 ## Why do I have this?

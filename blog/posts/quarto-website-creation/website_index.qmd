@@ -8,6 +8,7 @@ categories:
     - quarto
 draft: false
 engine: markdown
+image: ../../imgs/search.jpg
 ---
 
 *You can find all of the source code for this site on my [Github](https://github.com/damoncharlesroberts/dcr-website)*

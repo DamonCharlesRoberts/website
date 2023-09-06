@@ -16,6 +16,7 @@ format:
         css: "assets/custom.scss"
 params:
     style-file: "{{<meta format.html.css >}}"
+image: ../../imgs/chart.png
 ---
 
 # Be careful about reading polls
