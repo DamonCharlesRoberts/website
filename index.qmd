@@ -4,7 +4,11 @@ title: ""
 
 # About {#sec-about}
 
-I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in the Department of Political Science at the University of Colorado Boulder. I am a computational social scientist that researches political psychology, political communication, race and gender, and the utility of applied machine learning and Bayesian statistics for causal inference. Overall, my research seeks to address the question: "how does politics affect the brain?" My dissertation, and book project, examines the cognitive processes that occur to explain how color acts as a form of political information. My other projects in progress examine tools to solve missing data problems, how gender and racial attitudes may be connected, and how a common identity among whites may inform their political attitudes. My academic work is featured in *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing scholarship is featured in *The Washington Post*'s Monkey Cage Blog.
+I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in the Department of Political Science at the University of Colorado Boulder. I am a computational social scientist broadly tackling questions of how "politics affects the brain." Specifically, I take an interdisciplinary approach to examining the role that social groups play in shaping political attitude expression and behavior. 
+
+Developing new and using existing statistical tools, my research considers the cognitive processes explaining how political rhetoric and visual displays can be used as a source of subtle information conveying group distinctions and what the implications of that information are for our political attitude expression and behavior. Specifically, I examine how we come to form attitudes based on racial and ethnic, gender, age, and partisan social groups through the rhetorical and visual choices made by political elites. I also have work that discusses the best practices researchers can take when managing and pre-processing their data.
+
+My academic work is featured in *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing scholarship is featured in *The Washington Post*'s Monkey Cage Blog.
 
 # Contact
 
