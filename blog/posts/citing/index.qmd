@@ -12,6 +12,7 @@ execute:
     message: false
     warning: false
     echo: false
+image: ../../imgs/book.jpg
 ---
 
 When you produce information that is shared with others, it would be nice to receive credit for it, right? One of the most obnoxious things someone can do on TikTok is to essentially record themselves doing or saying the exact same thing as you without acknowledging that you were the person that came up with it. In fact, it is so obnoxious that this sort of behavior is codified as being problematic in the law. This sort of behavior can often be determined to be a copyright violation.

@@ -10,8 +10,7 @@ engine: rmarkdown
 execute:
     message: false
     warning: false
-params:
-    primary_color: "assets/custom.scss"
+image: ../../imgs/chalkboard.jpg
 ---
 
 Quarto is an excellent expansion upon RMarkdown. For those that have not had experience with either, it might be a little overwhelming. However, I hope to make the case in this post for why Quarto is worth learning and is particularly useful for increasing the replicability of your academic projects (or for various projects that you have if you are an analyst!).

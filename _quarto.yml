@@ -13,7 +13,8 @@ website:
         text: Home
       - href: cv/dcr_cv.pdf
         text: CV
-      - blog/index.qmd
+      - href: blog/index.qmd
+        text: Blog
       - href: research/index.qmd
         text: Research
       - text: "Teaching"

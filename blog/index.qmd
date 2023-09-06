@@ -1,14 +1,20 @@
 ---
-title: "Blog"
+title: '{{< animate fadeInUp "Blog" >}}'
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  - id: posts
+    contents: posts
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
+:::: {.animate__animated .animate__fadeInUp}
 
+::: {#posts}
+:::
+
+::::

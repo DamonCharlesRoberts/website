@@ -1,8 +1,10 @@
 ---
-title: "Research"
+title: '{{< animate fadeInUp "Research">}}'
 nocite: |
     @roberts_utych_2020_prq, @roberts_utych_2021_ssq, @roberts_utych_2021_apr, @fahey_et-al_2022_apr, @roberts_wolak_2022_pb
 ---
+
+:::: {.animate__animated .animate__fadeInUp}
 
 ## Published
 
@@ -278,3 +280,5 @@ For those that are on teams that manage files differently or uses a variety of t
 <p><i>Colorado Public Radio</i>. On: The effects of candidate age on electability. August 31, 2022.</p>
 
 <p><i>University of Colorado Boulder press</i> On: Joe Biden's re-election announcement and his age. May 2023.</p>
+
+::::
