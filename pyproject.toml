@@ -9,6 +9,11 @@ readme = "README.md"
 python = "^3.11"
 matplotlib = "^3.7.0"
 samila = "^1.0"
+pybaseball = "^2.2.7"
+jupyter = "^1.0.0"
+polars = "^0.19.6"
+plotly = "^5.17.0"
+statsmodels = "^0.14.0"
 
 
 [build-system]
