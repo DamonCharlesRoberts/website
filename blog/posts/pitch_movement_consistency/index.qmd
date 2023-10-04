@@ -11,6 +11,7 @@ execute:
     message: false
     warning: false
     echo: false
+    code-tools: true
 ---
 
 ```{python}
