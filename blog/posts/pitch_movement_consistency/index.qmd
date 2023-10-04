@@ -52,7 +52,7 @@ So, let's take a look at how much movement pitchers have been putting on their p
 
 ```{python}
 #| label: fig-movement
-#| caption: Pitch Movement
+#| fig-caption: Pitch Movement
 px.scatter(
   df, x = "pfx_x", y = "pfx_z", color = "pitch_type",
   labels = dict(pfx_x = "Horizontal Movement (in feet)", pfx_z = "Vertical Movement (in feet)", pitch_type = "Pitch Type")
@@ -215,7 +215,7 @@ df_era = df_era.cast({"mlbID": pl.Int64})
 df_w_era = df_movement_improved.join(df_era, how = "inner", left_on = "pitcher", right_on = "mlbID", validate = "m:1")
 
 px.scatter(
-  df_w_era, x = "abs_movement", y = "ERA", color = "pitch_type"
+  df_w_era, x = "abs_movement", y = "ERA", color = "pitch_category"
 )
 ```
 
@@ -242,7 +242,7 @@ df_war = pl.from_pandas(pdf_war).filter(pl.col("year_ID") == 2023).group_by("pla
 df_w_war = df_movement_improved.join(df_war, how = "left", left_on = "key_bbref", right_on = "player_ID", validate = "m:1")
 
 px.scatter(
-  df_w_war, x = "abs_movement", y = "WAR", color = "pitch_type"
+  df_w_war, x = "abs_movement", y = "WAR", color = "pitch_category"
 )
 ```
 
