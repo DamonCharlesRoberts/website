@@ -1,12 +1,12 @@
 ---
 title: "How consistency in pitch movement across innings affects WAR"
 author: "Damon C. Roberts"
-date: 1/19/2023
+date: 10/4/2023
 categories:
     - sports
     - baseball
     - pitch movement
-draft: true
+draft: false
 execute:
     message: false
     warning: false
