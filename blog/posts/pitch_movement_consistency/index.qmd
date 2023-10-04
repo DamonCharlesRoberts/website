@@ -7,11 +7,13 @@ categories:
     - baseball
     - pitch movement
 draft: false
+format:
+  html:
+    code-tools: true
 execute:
     message: false
     warning: false
     echo: false
-    code-tools: true
 ---
 
 ```{python}
