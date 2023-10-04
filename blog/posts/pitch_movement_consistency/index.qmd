@@ -1,5 +1,5 @@
 ---
-title: "How consistency in pitch movement across innings affects WAR"
+title: "Does pitch movement matter for winning?"
 author: "Damon C. Roberts"
 date: 10/4/2023
 categories:
