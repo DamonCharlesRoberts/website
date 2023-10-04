@@ -65,6 +65,7 @@ There are a couple things to contend with here. First, some pitches are necessar
 
 ```{python}
 #| label: fig-movement-improved
+#| fig-cap: Movement of pitches (adjusted)
 df_movement = df.with_columns(
   abs_movement_x = pl.col("pfx_x").abs(),
   abs_movement_y = pl.col("pfx_z").abs()
@@ -100,6 +101,7 @@ px.histogram(
 ```
 
 ```{python}
+#| label: absolute-movement-avgs
 #| output: asis
 
 df_avg = df_movement_improved_agg.group_by("pitch_category").agg(pl.col("abs_movement").mean())
@@ -117,6 +119,7 @@ Let's see which pitchers are producing the nastiest movement on their pitches.
 Among the top five pitchers for most absolute movement on their fastballs, the podium is:
 
 ```{python}
+#| label: fastball-podium
 dict_most_movement = df_movement_improved_agg.partition_by("pitch_category", as_dict = True)
 
 dict_most_movement.get("Fastball").top_k(5, by = "abs_movement")
@@ -125,18 +128,21 @@ dict_most_movement.get("Fastball").top_k(5, by = "abs_movement")
 For breaking balls:
 
 ```{python}
+#| label: breaking-ball-podium
 dict_most_movement.get("Breaking Ball").top_k(5, by = "abs_movement")
 ```
 
 And finally for off-speed pitches:
 
 ```{python}
+#| label: off-speed-podium
 dict_most_movement.get("Off-Speed").top_k(5, by = "abs_movement")
 ```
 
 Let's take a look at how well these pitchers are able to keep runs from crossing the plate.
 
 ```{python}
+#| label: setting-up-podium-with-era
 pdf_era = pb.pitching_stats_bref(2023)
 
 df_era = pl.from_pandas(pdf_era)
@@ -149,18 +155,21 @@ df_breaking, df_fastball, df_offspeed, __ = [ value.join(df_era, how = "inner", 
 Among those with the most average absolute movement for their fastballs, these are their ERA's.
 
 ```{python}
+#| label: fastball-podium-era
 print(df_fastball)
 ```
 
 For breaking balls:
 
 ```{python}
+#| label: breaking-podium-era
 print(df_breaking)
 ```
 
 And for off-speed:
 
 ```{python}
+#| label: offspeed-podium-era
 print(df_offspeed)
 ```
 
@@ -176,14 +185,15 @@ We can look at the classification of those that are actually hit. As these are b
 
 ```{python}
 #| label: fig-contact
+#| fig-cap: Quality of contact based on absolute movement
 px.scatter(
   df_movement_improved, x = "abs_movement", y = "launch_speed_angle", color = "pitch_category"
 )
 ```
 
 ```{python}
+#| label: correlation-of-contact-and-movement
 #| output: asis
-
 print(
   "What we can see here is that the correlation (r = {:.2f}".format(df_movement_improved.select(pl.corr("abs_movement", "launch_speed_angle")).item(0,0)) + ") between absolute movement and Statcasts' classifications of the launch speed angle doesn't really seem to support what my intuition."
 )
@@ -194,7 +204,8 @@ The correlation is small and it is positive. What this means is that the strikes
 So, let's look to see whether this movement helps limit the number of runs that come across plate among all of the pitchers and not just those that have thrown the highest average movement.
 
 ```{python}
-
+#| label: fig-era-and-absolute-movement
+#| fig-cap: Absolute Movement and ERA
 pdf_era = pb.pitching_stats_bref(2023)
 
 df_era = pl.from_pandas(pdf_era)
@@ -209,6 +220,7 @@ px.scatter(
 ```
 
 ```{python}
+#| label: corr-era-and-absolute-movement
 #| output: asis
 
 print(
@@ -221,7 +233,8 @@ What this reflects is that the more absolute movement a pitcher has, we should e
 However, [ERA is rightfully a highly criticized metric](https://www.mlb.com/glossary/standard-stats/earned-run-average#) of a pitcher's ability to keep points off the board. We can also look at their capacity to produce wins relative to them not playing. So, we will look at the correlation between movement and WAR over the course of the season.
 
 ```{python}
-
+#| label: fig-war-and-absolute-movement
+#| fig-cap: Absolute Movement and WAR
 pdf_war = pb.bwar_pitch()
 
 df_war = pl.from_pandas(pdf_war).filter(pl.col("year_ID") == 2023).group_by("player_ID").agg(pl.col("WAR").mean())
@@ -234,6 +247,7 @@ px.scatter(
 ```
 
 ```{python}
+#| label: corr-absolute-movement-and-war
 #| output: asis
 
 print(
