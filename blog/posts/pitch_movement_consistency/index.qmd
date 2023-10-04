@@ -48,9 +48,11 @@ There are a lot of different ways in which we can try to quantify a pitcher's va
 
 While having the ability to rip a 4-seamer across the plate at 100 mph and then follow it up with an 88 mph meatball can definitely produce some K's, they aren't always the safest bet. Fastballs with lots of movement to them and breaking balls are all the [rage in the MLB right now](https://www.mlb.com/news/top-pitches-of-1st-half-2023-season). Pitches producing a lot of movement make it difficult to make contact; and if someone does, the movement makes any meaningful contact a challenge. As a result, pitchers are definitely working at adding a lot of movement to their pitches, not just their velocity. After all, if a pitch just stays in the same spot it makes it a bit easier to get your barrel on it.
 
-So, let's take a look at how much movement pitchers have been putting on their pitches.
+So, let's take a look at how much movement pitchers have been putting on their pitches.^[Throughout the blog post, I retrieve data on pitch characteristics and outcomes from [Statcast's API](https://baseballsavant.mlb.com/statcast_search). Throughout the blog post, I retrieve data on pitcher ERA and WAR with [Baseball Reference's API](https://www.baseball-reference.com).]
 
 ```{python}
+#| label: fig-movement
+#| caption: Pitch Movement
 px.scatter(
   df, x = "pfx_x", y = "pfx_z", color = "pitch_type",
   labels = dict(pfx_x = "Horizontal Movement (in feet)", pfx_z = "Vertical Movement (in feet)", pitch_type = "Pitch Type")
@@ -62,7 +64,7 @@ Some pitches have an absolute horizontal or vertical movement of 2 feet in some 
 There are a couple things to contend with here. First, some pitches are necessarily going to produce a lot of movement, that is the nature of the pitch. So let's simplify this a bit and think about the major categories of pitches. The first type are breaking balls. Breaking balls include the Curveball, Slider, Slurve, and Screwball. The second type are our fast balls and these include the Four-seam, Two-seam, Cutter, Splitter, and Forkball. The third major category is our off speed pitches and these include the Changeup, Palmball, Circle Changeup. Also, just because you can throw a pitch with a lot of movement, it does not indicate that you are placing it well (or have any control of where you place it. I am looking at you Knuckleball). Now, let's see what the distribution is for these general categories of pitches that were called as either strikes or put in play (which indicates that unless the batter is Mookie Betts working on his golf game that day or are in a game with your main opponent being Angel Hernandez, these are likely pretty reasonably placed and in-control pitches).
 
 ```{python}
-
+#| label: fig-movement-improved
 df_movement = df.with_columns(
   abs_movement_x = pl.col("pfx_x").abs(),
   abs_movement_y = pl.col("pfx_z").abs()
@@ -173,7 +175,7 @@ Does this movement actually predict weaker contact? Let's see.
 We can look at the classification of those that are actually hit. As these are balls actually hit and not swung-on-and-missed, this is an over-representation of a batter's ability to make something out of these pitches.
 
 ```{python}
-#| fig-contact
+#| label: fig-contact
 px.scatter(
   df_movement_improved, x = "abs_movement", y = "launch_speed_angle", color = "pitch_category"
 )
