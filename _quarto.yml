@@ -13,11 +13,12 @@ website:
         text: Home
       - href: cv/dcr_cv.pdf
         text: CV
-      - menu:
-        - href: blog/index.qmd
-          text: Academic Blog
-        - href: https://sports.blog.damoncroberts.com
-          text: Sports Analytics Blog
+      - text: Blog
+        menu:
+          - href: blog/index.qmd
+            text: Academic Blog
+          - href: https://sports.blog.damoncroberts.com
+            text: Sports Analytics Blog
       - href: research/index.qmd
         text: Research
       - text: "Teaching"
