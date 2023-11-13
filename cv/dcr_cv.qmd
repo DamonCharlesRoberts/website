@@ -76,6 +76,7 @@ May 2019
 \vspace{2em}
 # HONORS, GRANTS, \& AWARDS
 
+* 2023. Graduate Part Time Instructor Excellence Award Political Science Department Nominee - University of Colorado Boulder, Graduate School
 * 2023. Large Research Grant - University of Colorado Boulder, Department of Political Science ($2,100)
 * 2022. Teamwork Grant - University of Colorado Boulder, Department of Political Science (< $1,000)
 * 2021. Travel Grant - Elections, Voting, Public Opinion, and Behavior Section - American Political Science Association (< $1,000)
@@ -118,10 +119,11 @@ Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Survey
 
 # INVITED TALKS AND GUEST LECTURES
 
-* Fall 2023 (scheduled) - "The Shape and Color of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences." Guest Lecture at the University of Texas El Paso for Graduate Seminar on Quantitative Research Methodology.
+* Fall 2023 - "Life as a Graduate Student." Guest Lecture at Emory \& Henry College.
+* Fall 2023 - "The Shape and Color of Politics: How Citizens Process Politically-relevant Visual Information and Its Consequences." Guest Lecture at the University of Texas El Paso for Graduate Seminar on Quantitative Research Methodology.
 * Spring 2023 - ["An introduction to Experiments in political science."](https://experiments.workshops.damoncroberts.com/#/title-slide) Guest Lecture at the University of Colorado Boulder for upper-level undergraduate course on Advanced Quantitative Research Methods.
 * Spring 2022 - “An Introduction to Quantifying Text in Political Communication”. Guest Lecture at Colorado State University for Graduate Seminar in Political Communication.
-* Spring 2022 - Life as a Graduate Student. Guest Lecture at University of Kentucky for PS 492
+* Spring 2022 - "Life as a Graduate Student." Guest Lecture at University of Kentucky for PS 492
 * Spring 2021 - “The media’s role in the use of gender and racial stereotypes in politics”. Guest Lecture at Colorado State University for undergraduate course on Media and Politics.
 
 \vspace{2em}
@@ -174,7 +176,7 @@ Experiments, Quasi-Experiments and Causal Inference, Bayesian Statistics, Survey
 
 ## Referee
 
-Research \& Politics, Electoral Studies
+Research \& Politics, Electoral Studies, Journal of Elections, Public Opinion \& Parties
 
 ## Discipline \& Community Service
 
