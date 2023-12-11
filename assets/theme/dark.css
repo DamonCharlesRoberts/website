@@ -7,9 +7,9 @@ $theme: "custom" !default;
 //
 
 $white:    #fff !default;
-$gray:     #737373 !default;
+$gray:     #282828 !default;
 $black:    #000 !default;
-
+$light-gray: #737373 !default;
 $maroon:   #550000 !default;
 
 // Body
@@ -72,7 +72,7 @@ $dropdown-bg:                       $body-bg !default;
 $dropdown-border-color:             body-mix(85%) !default;
 $dropdown-divider-bg:               body-mix(85%) !default;
 $dropdown-link-color:               $body-color !default;
-$dropdown-link-hover-color:         $gray !default;
+$dropdown-link-hover-color:         $light-gray !default;
 $dropdown-link-hover-bg:            $maroon !default;
 
 // Navs
@@ -171,12 +171,12 @@ $callout-color-important: $white;
 a.button1 {
   display:inline-block;
   padding:0.35em 1.2em;
-  border: 0.1em solid $gray;
+  border: 0.1em solid $light-gray;
   margin:0 0.3em 0.3em 0;
   border-radius:0.12em;
   box-sizing: border-box;
   text-decoration: none;
-  color: $gray;
+  color: $light-gray;
   text-align: center;
   transition: all 0.2s;
 }
