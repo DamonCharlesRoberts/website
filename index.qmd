@@ -1,10 +1,9 @@
 ---
-title: '{{< animate fadeInUp "About">}}'
+title: '{{< animate fadeInUp "Welcome">}}'
 format: html
 ---
 
 ::: {.animate__animated .animate__fadeInUp}
-# Welcome
 
 I work as an expert on U.S. elections polling and forecasting. Concurrently, I am finishing up my doctoral thesis where I am a Lab Fellow in the American Politics Research Lab and PhD Candidate in the Department of Political Science at the University of Colorado Boulder.
 
