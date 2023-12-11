@@ -1,0 +1,14 @@
+# Teaching
+
+I taught a number of classes while in grad school. As I strongly believe in democratizing all information, I don't want to simply get rid of all of my materials and syllabi. You can find links to syllabi and materials here on this page.
+
+| Term        | Link to Course Materials                                                                                                                                                                                                                                                   |
+|------------------------|------------------------------------------------|
+| Fall 2023   | <a href='https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/intro_to_american_politics/fa_2023/out/syllabus.pdf'>PSCI 1101 – Introduction to American Politics (Instructor of Record)</a>                                              |
+| Spring 2023 | <a href='https://sp23.psci2075.classes.damoncroberts.com/'>PSCI 2075 – Quantitative Research Methods (Teaching Assistant)</a>                                                                                                                                              |
+| Fall 2022   | <a href='https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/research_design_and_causal_inference/'>PSCI 3075 – Applied Research Methods (Instructor of Record)</a>                                                                     |
+| Summer 2022 | <a href='https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/introduction_to_quantitative_research/su22_psci_2075_syllabus.pdf'>PSCI 2075 – Quantitative Research Methods (Instructor of Record)</a>                                    |
+| Spring 2020 | <a href='https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Roberts%20-%20Spring%2C%202020%20PSCI%201101-%20Recitation%20Syllabus.pdf'>PSCI 1101 – Introduction to American Politics (Teaching Assistant)</a> |
+| Fall 2019   | <a href='https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Fall%2C%202019%20PSCI%201101-%20Reciation%20Syllabus%20111.pdf'>PSCI 1101 – Introduction to American Politics (Teaching Assistant)</a>            |
+
+: Course materials

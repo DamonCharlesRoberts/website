@@ -11,49 +11,25 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv/dcr_cv.pdf
-        text: CV
       - text: Blog
-        menu:
-          - href: blog/index.qmd
-            text: Academic Blog
-          - href: https://sports.blog.damoncroberts.com
-            text: Sports Analytics Blog
+        href: https://blog.damoncroberts.com
       - href: research/index.qmd
         text: Research
-      - text: "Teaching"
-        menu:
-          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/intro_to_american_politics/fa_2023/out/syllabus.pdf
-            text: PSCI 1101--Introduction to American Politics (Instructor of Record), Fall 2023
-          - href: https://sp23.psci2075.classes.damoncroberts.com/
-            text: PSCI 2075--Quantitative Research Methods (TA), Spring 2023
-          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/research_design_and_causal_inference/dcr_psci_3075_fall_2022_syllabus.pdf
-            text: PSCI 3075--Applied Research Methods (Instructor of Record), Fall 2022
-          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/instructor_of_record/introduction_to_quantitative_research/su22_psci_2075_syllabus.pdf
-            text: PSCI 2075--Quantitative Research Methods (Instructor of Record), Summer 2022
-          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Roberts%20-%20Spring%2C%202020%20PSCI%201101-%20Recitation%20Syllabus.pdf
-            text: PSCI 1101--Introduction to American Politics (TA), Spring 2020
-          - href: https://github.com/DamonCharlesRoberts/syllabus-archive/blob/main/teaching_assistant/intro_to_american_politics/Fall%2C%202019%20PSCI%201101-%20Reciation%20Syllabus%20111.pdf
-            text: PSCI 1101--Introduction to American Politics (TA), Fall 2019
       - text: "Software"
         menu:
           - href: https://gencounter.app.damoncroberts.com
-            text: genCounter--Webapp
+            text: genCounter--R Package
           - href: https://github.com/DamonCharlesRoberts/fancy-doc
             text: fancy-doc--Quarto Extension
           - href: https://github.com/DamonCharlesRoberts/ScrapeCongress
             text: ScrapeCongress--R Package (R.I.P, Thanks Elon Musk)
-      - text: "Workshops"
-        menu:
-          - href: https://experiments.workshops.damoncroberts.com
-            text: Experiments - Spring 2023
       - icon: github
         href: https://github.com/damoncharlesroberts
   page-footer:
     center: |
       <span class="faux-block">{{< fa brands creative-commons >}} 2021-2023 Damon Charles Roberts</span>
       <span class="faux-block"><br>All content licensed under {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
-  google-analytics: "G-26NTN3W5CD"
+  google-analytics: "G-1KSKNN9VB4"
 format:
   html:
     theme:

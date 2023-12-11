@@ -4,19 +4,18 @@ format: html
 ---
 
 ::: {.animate__animated .animate__fadeInUp}
-I am a Lab Fellow in the American Politics Research Lab and a PhD Candidate in the Department of Political Science at the University of Colorado Boulder. I am a computational social scientist broadly tackling questions of how "politics affects the brain." Specifically, I take an interdisciplinary approach to examining the role that social groups play in shaping political attitude expression and behavior. 
+# Welcome
 
-Developing new and using existing statistical tools, my research considers the cognitive processes explaining how political rhetoric and visual displays can be used as a source of subtle information conveying group distinctions and what the implications of that information are for our political attitude expression and behavior. Specifically, I examine how we come to form attitudes based on racial and ethnic, gender, age, and partisan social groups through the rhetorical and visual choices made by political elites. I also have work that discusses the best practices researchers can take when managing and pre-processing their data.
+I work as an expert on U.S. elections polling and forecasting. Concurrently, I am finishing up my doctoral thesis where I am a Lab Fellow in the American Politics Research Lab and PhD Candidate in the Department of Political Science at the University of Colorado Boulder.
 
-My academic work is featured in *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing scholarship is featured in *The Washington Post*'s Monkey Cage Blog.
+My work is featured in a number of peer-reviewed academic journals such as *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing work has also been featured in *The Washington Post*'s Monkey Cage Blog (now *Good Authority*).
+
+If you would like to see any of my teaching materials produced while I was an instructor at the University of Colorado Boulder, you can find them [here.](./teaching/index.qmd)
 
 # Contact
 
 <a class="button1" href ="mailto:damon.charles.roberts@gmail.com">
     <i class="fa-solid fa-envelope"></i> Email
-</a>
-<a class="button1" href="https://calendly.com/damoncharlesroberts/fa2023-office-hours">
-    <i class="fa-solid fa-clock"></i> Office Hours
 </a>
 <a class="button1" href="https://github.com/damoncharlesroberts">
     <i class="fa-brands fa-github"></i> Github
