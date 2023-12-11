@@ -182,8 +182,8 @@ a.button1 {
 }
 
 a.button1:hover {
-  color: $maroon;
-  background-color: $light-gray;
+  color: $light-gray;
+  background-color: $maroon;
 }
 
 /*-- scss:rules --*/
