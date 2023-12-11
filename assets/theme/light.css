@@ -73,7 +73,7 @@ $dropdown-border-color:             body-mix(85%) !default;
 $dropdown-divider-bg:               body-mix(85%) !default;
 $dropdown-link-color:               $body-color !default;
 $dropdown-link-hover-color:         $maroon !default;
-$dropdown-link-hover-bg:            $body-color !default;
+$dropdown-link-hover-bg:            $body-bg !default;
 
 // Navs
 

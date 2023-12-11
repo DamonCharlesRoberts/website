@@ -46,6 +46,5 @@ format:
     toc: true
     code-overflow: wrap
     smooth-scroll: true
-
 execute:
   freeze: auto
