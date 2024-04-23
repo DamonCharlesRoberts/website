@@ -13,9 +13,6 @@ If you would like to see any of my teaching materials produced while I was an in
 
 # Contact
 
-<a class="button1" href ="mailto:damon.charles.roberts@gmail.com">
-    <i class="fa-solid fa-envelope"></i> Email
-</a>
 <a class="button1" href="https://github.com/damoncharlesroberts">
     <i class="fa-brands fa-github"></i> Github
 </a>
