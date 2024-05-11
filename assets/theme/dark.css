@@ -40,8 +40,8 @@ $link-color:                $purple !default;
 // Fonts
 
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:      none !default; // Remove all sans-serif font fallbacks
-$font-family-monospace:      "Space Mono", monospace !default; // Define Fira Mono as the monospace font
+$font-family-sans-serif:      "Space Mono" !default; // Remove all sans-serif font fallbacks
+$font-family-monospace:      "Space Mono" !default; // Define Fira Mono as the monospace font
 $h1-font-size:                3rem !default;
 $h2-font-size:                2.5rem !default;
 $h3-font-size:                2rem !default;
