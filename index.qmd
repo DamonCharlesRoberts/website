@@ -1,9 +1,7 @@
 ---
-title: '{{< animate fadeInUp "Welcome">}}'
+title: "Welcome"
 format: html
 ---
-
-::: {.animate__animated .animate__fadeInUp}
 
 I work as an expert on U.S. elections polling and forecasting. Concurrently, I am finishing up my doctoral thesis where I am a Lab Fellow in the American Politics Research Lab and PhD Candidate in the Department of Political Science at the University of Colorado Boulder.
 
@@ -19,4 +17,3 @@ If you would like to see any of my teaching materials produced while I was an in
 <a class="button1" href="https://www.linkedin.com/in/damon-roberts-00a08a197">
     <i class="fa-brands fa-linkedin"></i> LinkedIn
 </a>
-:::
