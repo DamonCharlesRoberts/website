@@ -3,9 +3,9 @@ title: "Welcome"
 format: html
 ---
 
-I work as an expert on U.S. elections polling and forecasting. Concurrently, I am finishing up my doctoral thesis where I am a Lab Fellow in the American Politics Research Lab and PhD Candidate in the Department of Political Science at the University of Colorado Boulder.
+I work as an expert on U.S. elections polling and forecasting.
 
-My work is featured in a number of peer-reviewed academic journals such as *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing work has also been featured in *The Washington Post*'s Monkey Cage Blog (now *Good Authority*).
+My academic research is featured in a number of peer-reviewed academic journals such as *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing work has also been featured in *The Washington Post*'s Monkey Cage Blog (now *Good Authority*).
 
 If you would like to see any of my teaching materials produced while I was an instructor at the University of Colorado Boulder, you can find them [here.](./teaching/index.qmd)
 
