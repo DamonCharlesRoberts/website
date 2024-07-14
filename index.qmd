@@ -3,11 +3,9 @@ title: "Welcome"
 format: html
 ---
 
-I work as an expert on U.S. elections polling and forecasting.
+I project outcomes by fitting models on data, build webapplications, and am learning to manage databases better.
 
 My academic research is featured in a number of peer-reviewed academic journals such as *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing work has also been featured in *The Washington Post*'s Monkey Cage Blog (now *Good Authority*).
-
-If you would like to see any of my teaching materials produced while I was an instructor at the University of Colorado Boulder, you can find them [here.](./teaching/index.qmd)
 
 # Contact
 

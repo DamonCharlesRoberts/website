@@ -13,8 +13,8 @@ website:
         text: Home
       - text: Blog
         href: https://blog.damoncroberts.com
-      - href: research/index.qmd
-        text: Research
+      # - href: research/index.qmd
+      #   text: Research
       - text: "Software"
         menu:
           - href: https://gencounter.app.damoncroberts.com
@@ -25,7 +25,7 @@ website:
             text: ScrapeCongress--R Package (R.I.P, Thanks Elon Musk)
     tools:
       - icon: github
-        menu: 
+        menu:
           - text: My Github Profile
             url: https://github.com/damoncharlesroberts
           - text: Source Code for Site
