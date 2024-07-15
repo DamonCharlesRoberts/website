@@ -17,7 +17,7 @@
 
 # Website
 
-The source code for my Quarto-built professional website. Here's the link to my website: [damoncroberts.com](https://damoncroberts.com).
+The source code for my Quarto-built professional website. Here's the link to my website: [damoncroberts.io](https://damoncroberts.io).
 
 For details about the basic construction of my site, please see my [blog post](https://damoncroberts.com).
 
