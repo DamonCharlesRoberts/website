@@ -12,12 +12,12 @@ website:
       - href: index.qmd
         text: Home
       - text: Blog
-        href: https://blog.damoncroberts.com
+        href: https://blog.damoncroberts.io
       # - href: research/index.qmd
       #   text: Research
       - text: "Software"
         menu:
-          - href: https://gencounter.app.damoncroberts.com
+          - href: https://gencounter.app.damoncroberts.io
             text: genCounter--R Package
           - href: https://github.com/DamonCharlesRoberts/fancy-doc
             text: fancy-doc--Quarto Extension
