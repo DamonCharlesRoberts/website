@@ -11,6 +11,7 @@
          alt="GitHub pull requests"></a>
    <a href = "https://github.com/DamonCharlesRoberts/website/actions/workflows/publish.yml">
    <img src="https://github.com/DamonCharlesRoberts/website/actions/workflows/publish.yml/badge.svg" alt="Quarto Publish"></a>
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/fb12cf73-9ae9-4097-864c-e10603f53f24/deploy-status)](https://app.netlify.com/sites/dcr-main-site/deploys)
 </p>
 
 ---
