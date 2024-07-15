@@ -17,7 +17,7 @@ website:
       #   text: Research
       - text: "Software"
         menu:
-          - href: https://gencounter.app.damoncroberts.io
+          - href: https://gencounter.software.damoncroberts.io
             text: genCounter--R Package
           - href: https://github.com/DamonCharlesRoberts/fancy-doc
             text: fancy-doc--Quarto Extension
