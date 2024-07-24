@@ -6,7 +6,6 @@ project:
 
 website:
   title: "Damon C. Roberts"
-  favicon: assets/favicon_io/favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +14,7 @@ website:
         href: https://blog.damoncroberts.io
       # - href: research/index.qmd
       #   text: Research
-      - text: "Software"
+      - text: "Open source software"
         menu:
           - href: https://gencounter.software.damoncroberts.io
             text: genCounter--R Package
@@ -36,6 +35,7 @@ website:
       <span class="faux-block">{{< fa brands creative-commons >}} 2021-2024 Damon Charles Roberts</span>
       <span class="faux-block"><br>All content licensed under {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
   google-analytics: "G-1KSKNN9VB4"
+  back-to-top-navigation: true
 format:
   html:
     theme:

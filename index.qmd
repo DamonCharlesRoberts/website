@@ -1,9 +1,11 @@
 ---
-title: "Welcome"
-format: html
+title: "Welcome 👋"
+format:
+    html:
+        toc: false
 ---
 
-I project outcomes by fitting models on data, build webapplications, and am learning to manage databases better.
+I project outcomes by fitting Bayesian models on data, build web applications, and engineer data pipelines.
 
 My academic research is featured in a number of peer-reviewed academic journals such as *Political Behavior*, *Political Research Quarterly*, *Social Science Quarterly*, and *American Politics Research*. My public-facing work has also been featured in *The Washington Post*'s Monkey Cage Blog (now *Good Authority*).
 
